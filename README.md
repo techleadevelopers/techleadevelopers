@@ -60,9 +60,9 @@
 <h3>✨ LimpeJá Marketplace (Full Stack & Mobile Marketplace)</h3>
 <ul>
     <li>
-        <p>A mobile marketplace built with <b>React Native</b> and <b>Expo</b>. It’s designed to help people find cleaning and organization services easily.</p>
-      <p>It handles everything from when a user signs up to when a service provider gets booked and paid, including scheduling and setting prices that change based on demand.</p>
-       <p>Uses modern tech like <b>Expo Router</b>, <b>TanStack Query</b> for managing data efficiently, and <b>TypeScript</b> to make sure the code is solid.</p>
+        <p>A mobile marketplace built with <b>React Native</b> and <b>Expo</b>. It’s designed to help people find cleaning and organization services easily.
+      It handles everything from when a user signs up to when a service provider gets booked and paid, including scheduling and setting prices that change based on demand.
+       Uses modern tech like <b>Expo Router</b>, <b>TanStack Query</b> for managing data efficiently, and <b>TypeScript</b> to make sure the code is solid.</p>
     </li>
 
 </ul>

@@ -39,10 +39,9 @@
 <ul>
     <li>
         <p>A fun language learning platform that uses <b>local AI models (Whisper & Mistral)</b> to give you real-time feedback on your speech and have conversations that make sense.</p>
+      <p>Built with a fast <b>FastAPI</b> backend and a responsive <b>React Native</b> frontend. It’s all about making learning feel like a game and keeping users engaged.</p>
     </li>
-    <li>
-        <p>Built with a fast <b>FastAPI</b> backend and a responsive <b>React Native</b> frontend. It’s all about making learning feel like a game and keeping users engaged.</p>
-    </li>
+
 </ul>
 
 <br>
@@ -53,9 +52,7 @@
 <ul>
     <li>
         <p>A smart platform that uses <b>AI to help hospitals manage things better</b> by predicting risks in real-time and making sure resources are used efficiently.</p>
-    </li>
-    <li>
-        <p>This project focuses on being easy to check, helping prevent problems before they happen, and making decisions based on data in a really important field.</p>
+      <p>This project focuses on being easy to check, helping prevent problems before they happen, and making decisions based on data in a really important field.</p>
     </li>
 </ul>
 
@@ -67,10 +64,9 @@
 <ul>
     <li>
         <p>A platform that <b>simulates a Security Operations Center (SOC)</b> to help train people who work in cybersecurity.</p>
+      <p>Developed using <b>React and TypeScript</b>, this project demonstrates a good understanding of security stuff, how to <b>simulate data</b>, and how to build modern websites.</p>
     </li>
-    <li>
-        <p>Developed using <b>React and TypeScript</b>, this project demonstrates a good understanding of security stuff, how to <b>simulate data</b>, and how to build modern websites.</p>
-    </li>
+   
 </ul>
 
 <br>
@@ -94,8 +90,7 @@
 </ul>
 
 <br>
-<hr>
-<br>
+
 
 ### 🤝 Let's Connect!
 

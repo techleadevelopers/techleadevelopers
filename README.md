@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Hi there, I'm Techlea Developers! 👋</h1>
   <p>I am a highly motivated <b>Full Stack and AI/ML Engineer</b> focused on building scalable and intelligent applications that really work. I enjoy tackling complex challenges and turning them into smart solutions, using modern development and cutting-edge machine learning.</p>
 </div>
@@ -7,7 +7,7 @@
 <hr>
 <br>
 
-<h3 align="center">⚙️ My Tech Stack</h3>
+<h3 >⚙️ My Tech Stack</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
@@ -65,7 +65,7 @@
 
 <br>
 
-<h3 align="center">✨ LimpeJá Marketplace (Full Stack & Mobile Marketplace)</h3>
+<h3>✨ LimpeJá Marketplace (Full Stack & Mobile Marketplace)</h3>
 <ul>
     <li>
         <p>A mobile marketplace built with <b>React Native</b> and <b>Expo</b>. It’s designed to help people find cleaning and organization services easily.</p>
@@ -82,7 +82,7 @@
 <hr>
 <br>
 
-<h3 align="center">🤖 Bilingui-AI (Full Stack & Local AI)</h3>
+<h3>🤖 Bilingui-AI (Full Stack & Local AI)</h3>
 <ul>
     <li>
         <p>A fun language learning platform that uses <b>local AI models (Whisper & Mistral)</b> to give you real-time feedback on your speech and have conversations that make sense.</p>
@@ -96,7 +96,7 @@
 <hr>
 <br>
 
-<h3 align="center">🏥 VitalFlow IA (AI for Healthcare)</h3>
+<h3>🏥 VitalFlow IA (AI for Healthcare)</h3>
 <ul>
     <li>
         <p>A smart platform that uses <b>AI to help hospitals manage things better</b> by predicting risks in real-time and making sure resources are used efficiently.</p>
@@ -110,7 +110,7 @@
 <hr>
 <br>
 
-<h3 align="center">🛡️ SOC - APT Defense Universe (Cybersecurity & Simulation)</h3>
+<h3>🛡️ SOC - APT Defense Universe (Cybersecurity & Simulation)</h3>
 <ul>
     <li>
         <p>A platform that <b>simulates a Security Operations Center (SOC)</b> to help train people who work in cybersecurity.</p>

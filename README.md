@@ -13,9 +13,7 @@
 </p>
 
 
-<br>
-<hr>
-<br>
+
 
 ### ⚙️ My Key Projects
 

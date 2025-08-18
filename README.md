@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Techlea Developers! 👋</h1>
-  <p>I am a highly motivated <b>Full Stack and AI/ML Engineer</b> focused on building robust, scalable, and intelligent applications. My passion lies in transforming complex challenges into elegant solutions by combining modern development practices with cutting-edge machine learning.</p>
+  <p>I am a highly motivated <b>Full Stack and AI/ML Engineer</b> focused on building scalable and intelligent applications that really work. I enjoy tackling complex challenges and turning them into smart solutions, using modern development and cutting-edge machine learning.</p>
 </div>
 
 <br>
@@ -10,73 +10,118 @@
 <h3 align="center">⚙️ My Tech Stack</h3>
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>AI / ML</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" alt="Scikit-learn"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" alt="OpenCV"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
+      </td>
+    </tr>
+  </table>
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" alt="Scikit-learn"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" alt="OpenCV"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/></td>
-  </tr>
+  <table>
+    <tr>
+      <td align="center"><b>Languages</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="Go"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" alt="Rust"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+      </td>
+    </tr>
+  </table>
 
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="Go"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" alt="Rust"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/></td>
-  </tr>
+  <table>
+    <tr>
+      <td align="center"><b>Frontend</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" alt="NestJS"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="AngularJS"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="Sass"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
+      </td>
+    </tr>
+  </table>
 
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" alt="NestJS"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="AngularJS"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="Sass"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/></td>
-  </tr>
+  <table>
+    <tr>
+      <td align="center"><b>Backend</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" alt="Nginx"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+      </td>
+    </tr>
+  </table>
 
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" alt="Nginx"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/></td>
-  </tr>
+  <table>
+    <tr>
+      <td align="center"><b>Cloud</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
+      </td>
+    </tr>
+  </table>
 
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/></td>
-  </tr>
+  <table>
+    <tr>
+      <td align="center"><b>Databases</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
+      </td>
+    </tr>
+  </table>
 
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/></td>
-  </tr>
-
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" alt="Illustrator"/></td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td align="center"><b>Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" alt="Illustrator"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -85,17 +130,34 @@
 
 ### 🧠 My Key Projects
 
-<p>My work combines end-to-end software development with advanced machine learning applications. Here are a few projects that highlight my expertise:</p>
+<p>My work combines building software from start to finish with cool machine learning applications. Here are a few projects that show what I can do:</p>
 
+<br>
+
+<h3 align="center">✨ LimpeJá Marketplace (Full Stack & Mobile Marketplace)</h3>
+<ul>
+    <li>
+        <p>A mobile marketplace built with <b>React Native</b> and <b>Expo</b>. It’s designed to help people find cleaning and organization services easily.</p>
+    </li>
+    <li>
+        <p>It handles everything from when a user signs up to when a service provider gets booked and paid, including scheduling and setting prices that change based on demand.</p>
+    </li>
+    <li>
+        <p>Uses modern tech like <b>Expo Router</b>, <b>TanStack Query</b> for managing data efficiently, and <b>TypeScript</b> to make sure the code is solid.</p>
+    </li>
+</ul>
+
+<br>
+<hr>
 <br>
 
 <h3 align="center">🤖 Bilingui-AI (Full Stack & Local AI)</h3>
 <ul>
     <li>
-        <p>An innovative language learning platform featuring <b>local AI models (Whisper & Mistral)</b> for real-time speech feedback and contextual conversation.</p>
+        <p>A fun language learning platform that uses <b>local AI models (Whisper & Mistral)</b> to give you real-time feedback on your speech and have conversations that make sense.</p>
     </li>
     <li>
-        <p>Built with a powerful backend in <b>FastAPI</b> and a responsive frontend in <b>React Native</b>, with a focus on <b>gamification</b> and user experience.</p>
+        <p>Built with a fast <b>FastAPI</b> backend and a responsive <b>React Native</b> frontend. It’s all about making learning feel like a game and keeping users engaged.</p>
     </li>
 </ul>
 
@@ -106,27 +168,10 @@
 <h3 align="center">🏥 VitalFlow IA (AI for Healthcare)</h3>
 <ul>
     <li>
-        <p>An <b>AI-powered platform for hospital management</b> designed to provide real-time risk predictions and resource optimization.</p>
+        <p>A smart platform that uses <b>AI to help hospitals manage things better</b> by predicting risks in real-time and making sure resources are used efficiently.</p>
     </li>
     <li>
-        <p>This project focuses on <b>auditability</b>, <b>proactive prevention</b>, and <b>data-driven decision-making</b> in a critical domain.</p>
-    </li>
-</ul>
-
-<br>
-<hr>
-<br>
-
-<h3 align="center">✨ LimpeJá Marketplace (Full Stack & Mobile Marketplace)</h3>
-<ul>
-    <li>
-        <p>A <b>robust mobile marketplace</b> built with <b>React Native</b> and <b>Expo</b>, designed to connect clients to professional cleaning and organization services.</p>
-    </li>
-    <li>
-        <p>Manages the entire user and service provider lifecycle, from registration and authentication to <b>booking, scheduling, and dynamic pricing</b>.</p>
-    </li>
-    <li>
-        <p>Employs modern tech like <b>Expo Router</b>, <b>TanStack Query</b> for efficient data management, and <b>TypeScript</b> for code robustness.</p>
+        <p>This project focuses on being easy to check, helping prevent problems before they happen, and making decisions based on data in a really important field.</p>
     </li>
 </ul>
 
@@ -137,10 +182,10 @@
 <h3 align="center">🛡️ SOC - APT Defense Universe (Cybersecurity & Simulation)</h3>
 <ul>
     <li>
-        <p>A cutting-edge platform that <b>simulates a Security Operations Center (SOC)</b> for training cybersecurity analysts.</p>
+        <p>A platform that <b>simulates a Security Operations Center (SOC)</b> to help train people who work in cybersecurity.</p>
     </li>
     <li>
-        <p>Developed using <b>React and TypeScript</b>, this project demonstrates a strong understanding of security concepts, <b>data simulation</b>, and modern frontend architecture.</p>
+        <p>Developed using <b>React and TypeScript</b>, this project demonstrates a good understanding of security stuff, how to <b>simulate data</b>, and how to build modern websites.</p>
     </li>
 </ul>
 
@@ -150,17 +195,17 @@
 
 ### 🛠️ My Technical Skills
 
-<p>I have a solid foundation in software engineering principles and agile methodologies, which I apply to all my projects to ensure quality and efficiency.</p>
+<p>I have a strong base in how software should be made and follow good practices to make sure everything is high-quality and easy to maintain.</p>
 
 <ul>
     <li>
-        <p><b>AI/ML Lifecycle:</b> Expertise in the full lifecycle from data preprocessing and feature engineering to model architecture, training, and production deployment.</p>
+        <p><b>AI/ML Lifecycle:</b> I know how to handle the whole process, from getting data ready and figuring out what features are important, to designing, training, and deploying models.</p>
     </li>
     <li>
-        <p><b>Clean Code & Design Patterns:</b> Demonstrated in projects like `nestjs-dependency-inversion` through the application of principles like Dependency Inversion.</p>
+        <p><b>Clean Code & Design Patterns:</b> You can see this in projects like `nestjs-dependency-inversion`, where I use smart ways of organizing code like Dependency Inversion.</p>
     </li>
     <li>
-        <p><b>Agile Methodologies:</b> Experience with project roadmaps and sprints (as seen in the Bilingui-AI project), ensuring continuous and goal-aligned deliveries.</p>
+        <p><b>Agile Methodologies:</b> I have experience with project plans and working in short cycles (like in the Bilingui-AI project), which helps in delivering things regularly and staying on track.</p>
     </li>
 </ul>
 
@@ -170,4 +215,4 @@
 
 ### 🤝 Let's Connect!
 
-<p>I am passionate about open-source and always looking for new challenges. Feel free to explore my repositories, open an issue, or reach out to me for collaboration.</p>
+<p>I'm really into open-source and always excited about new challenges. Feel free to check out my projects, suggest improvements, or reach out if you want to collaborate.</p>

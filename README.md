@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<br>
+<hr>
 
 
 ### ⚙️ My Key Projects

@@ -1,35 +1,95 @@
-Hi there, I'm Techlea Developers! 👋
+<div align="center">
+  <h1>Hi there, I'm Techlea Developers! 👋</h1>
+  <p>I am a highly motivated <b>Full Stack and AI/ML Engineer</b> focused on building robust, scalable, and intelligent applications. My passion lies in transforming complex challenges into elegant solutions by combining modern development practices with cutting-edge machine learning.</p>
+</div>
 
-I am a passionate Full Stack and AI/ML Engineer dedicated to building robust and intelligent solutions. My goal is to transform complex ideas into functional applications, combining agile development methodologies with the power of machine learning.
+<div align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-React%20%7C%20NestJS-blue?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile-React%20Native%20%7C%20Expo-61DAFB?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-Python%20%7C%20Whisper%20%7C%20Mistral-20c997?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Languages-TypeScript%20%7C%20Python-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI/CD-0db7ed?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databases-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+</div>
 
-🔭 My Key Projects
-Based on your activity, here are some projects you can highlight to showcase your skills:
+---
 
-awesome-tech-lead: This project demonstrates your knowledge of technical leadership and content curation. It's ideal for showing that you are connected with the best practices in the community.
+<br />
 
-nestjs-dependency-inversion: A practical example that highlights your understanding of software design principles and architectural patterns, such as Dependency Inversion, using TypeScript and NestJS.
+### 🧠 My Key Projects
 
-fundamentos-da-blockchain: This signals your interest and knowledge in emerging technologies and your ability to learn new domains, like Web3.
+<p>My work combines end-to-end software development with advanced machine learning applications. Here are a few projects that highlight my expertise:</p>
 
-💡 My Tech Stack
-Backend: Node.js, NestJS
+<p><b>✨ LimpeJá Marketplace</b> (Full Stack & Mobile Marketplace)</p>
+<ul>
+    <li>
+        <p>A <b>robust mobile marketplace</b> built with <b>React Native and Expo</b>, designed to connect clients to professional cleaning and organization services.</p>
+    </li>
+    <li>
+        <p>Manages the entire user and service provider lifecycle, from registration and authentication to **booking, scheduling, and dynamic pricing**.</p>
+    </li>
+    <li>
+        <p>Employs modern tech like **Expo Router**, **TanStack Query** for efficient data management, and **TypeScript** for code robustness.</p>
+    </li>
+</ul>
 
-Frontend: React, TypeScript
+<p><b>🤖 Bilingui-AI</b> (Full Stack & Local AI)</p>
+<ul>
+    <li>
+        <p>An innovative language learning platform featuring **local AI models (Whisper & Mistral)** for real-time speech feedback and contextual conversation.</p>
+    </li>
+    <li>
+        <p>Built with a powerful **FastAPI** backend and a responsive **React Native** frontend, with a focus on **gamification** and user experience.</p>
+    </li>
+</ul>
 
-AI/ML: Python, Pandas, scikit-learn (implied by your AI projects)
+<p><b>🏥 VitalFlow IA</b> (AI for Healthcare)</p>
+<ul>
+    <li>
+        <p>An **AI-powered platform for hospital management** designed to provide real-time risk predictions and resource optimization.</p>
+    </li>
+    <li>
+        <p>Project focuses on **auditability**, **proactive prevention**, and **data-driven decision-making** in a critical domain.</p>
+    </li>
+</ul>
 
-Databases: (You can add here if you have projects with PostgreSQL, MongoDB, etc.)
+<p><b>🛡️ SOC - APT Defense Universe</b> (Cybersecurity & Simulation)</p>
+<ul>
+    <li>
+        <p>A cutting-edge platform that **simulates a Security Operations Center (SOC)** for training cybersecurity analysts.</p>
+    </li>
+    <li>
+        <p>Developed using **React and TypeScript**, this project demonstrates a strong understanding of security concepts, **data simulation**, and modern frontend architecture.</p>
+    </li>
+</ul>
 
-Methodologies & Tools: Git, GitHub, Agile Methodologies (such as Scrum or Kanban), CI/CD (Continuous Integration and Continuous Delivery).
+<br />
 
-🌱 Focus and Methodologies
-You mentioned "methodologies" in your request. In addition to technologies, it's crucial to highlight how you work. In your case, I suggest focusing on:
+### ⚙️ My Tech Stack
 
-Clean Code and Architectural Principles: The nestjs-dependency-inversion project shows that you value organized and scalable code.
+<p>I'm proficient in a wide range of technologies and follow robust methodologies to ensure high-quality and maintainable code.</p>
 
-AI/ML Project Lifecycle: Including the methodology for data collection, preprocessing, and model building is fundamental for an AI/ML engineer.
+<p><b>Full Stack:</b> Node.js, NestJS, FastAPI, React, React Native, Expo, Expo Router.</p>
+<p><b>AI/ML:</b> Python, scikit-learn, Pandas, AI model integration (Whisper, Mistral).</p>
+<p><b>Databases & ORMs:</b> PostgreSQL, SQLAlchemy, Alembic.</p>
+<p><b>DevOps & Tools:</b> Docker, CI/CD with **GitHub Actions**, Git.</p>
+<p><b>Architecture & Principles:</b></p>
+<ul>
+    <li>
+        <p><b>Clean Code & Design Patterns:</b> Demonstrated in `nestjs-dependency-inversion` through the application of principles like Dependency Inversion.</p>
+    </li>
+    <li>
+        <p><b>Agile Methodologies:</b> Experience with project roadmaps and sprints (as seen in the Bilingui-AI project).</p>
+    </li>
+    <li>
+        <p><b>AI/ML Lifecycle:</b> Expertise in the full lifecycle from data preprocessing to model deployment.</p>
+    </li>
+</ul>
 
-Collaboration and Leadership: The awesome-tech-lead project demonstrates your ability to lead and collaborate with the community.
+<br />
 
-🤝 Let's Connect!
-I am always open to collaborations on open-source projects or discussions about technology. Feel free to get in touch or open an issue on one of my repositories.
+### 🤝 Let's Connect!
+
+<p>I am passionate about open-source and always looking for new challenges. Feel free to explore my repositories, open an issue, or reach out to me for collaboration.</p>
+
+---

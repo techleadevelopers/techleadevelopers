@@ -19,6 +19,7 @@
 
 <p>My work combines building software from start to finish with cool machine learning applications. Here are a few projects that show what I can do:</p>
 
+<hr>
 <br>
 
 <h3>✨ LimpeJá Marketplace (Full Stack & Mobile Marketplace)</h3>
@@ -88,7 +89,8 @@
 </ul>
 
 <br>
-
+<hr>
+<br>
 
 ### 🤝 Let's Connect!
 

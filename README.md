@@ -4,8 +4,7 @@
 </div>
 
 <br>
-<hr>
-<br>
+
 
 <h3 >⚙️ My Tech Stack</h3>
 

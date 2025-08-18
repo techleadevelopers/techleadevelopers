@@ -6,7 +6,11 @@
 <br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,rust,cpp,ts,js,html,css,latex,ai,fastapi,nodejs,spring,react,nextjs,svelte,tailwind,tauri,vite,electron,npm,figma,obsidian,aws,azure,gcp,terraform,docker,kubernetes,nginx,linux,arch,bsd,bash,sqlite,postgresql,dynamodb,cassandra,mongodb,elasticsearch,redis,graphql,kafka,rabbitmq,tensorflow,opencv,pytorch,grafana,prometheus,github,gitlab,git,vscode,md&perline=18" alt="Cre4T3Tiv3 skill icons" />
+  </a>
+</p>
 
 
 <br>

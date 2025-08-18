@@ -6,7 +6,7 @@
 <br>
 
 
-<h3 >⚙️ My Tech Stack</h3>
+<h3 >🧠 My Tech Stack</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
@@ -51,7 +51,7 @@
 <hr>
 <br>
 
-### 🧠 My Key Projects
+### ⚙️ My Key Projects
 
 <p>My work combines building software from start to finish with cool machine learning applications. Here are a few projects that show what I can do:</p>
 
@@ -61,13 +61,10 @@
 <ul>
     <li>
         <p>A mobile marketplace built with <b>React Native</b> and <b>Expo</b>. It’s designed to help people find cleaning and organization services easily.</p>
+      <p>It handles everything from when a user signs up to when a service provider gets booked and paid, including scheduling and setting prices that change based on demand.</p>
+       <p>Uses modern tech like <b>Expo Router</b>, <b>TanStack Query</b> for managing data efficiently, and <b>TypeScript</b> to make sure the code is solid.</p>
     </li>
-    <li>
-        <p>It handles everything from when a user signs up to when a service provider gets booked and paid, including scheduling and setting prices that change based on demand.</p>
-    </li>
-    <li>
-        <p>Uses modern tech like <b>Expo Router</b>, <b>TanStack Query</b> for managing data efficiently, and <b>TypeScript</b> to make sure the code is solid.</p>
-    </li>
+
 </ul>
 
 <br>

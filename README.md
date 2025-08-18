@@ -1,5 +1,5 @@
 <div>
-  <h1>Hi there, I'm Paulo Silas de Campos! 👋</h1>
+  <h1>Hi there, I'm Paulo Silas de Campos! </h1> <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
   <p>I am a highly motivated <b>Full Stack and AI/ML Engineer</b> focused on building scalable and intelligent applications that really work. I enjoy tackling complex challenges and turning them into smart solutions, using modern development and cutting-edge machine learning.</p>
 </div>
 

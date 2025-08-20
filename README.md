@@ -28,36 +28,84 @@
     <p>
       <b>LimpeJá</b> is a <b>mobile-first marketplace</b> I founded and fully developed as the <b>sole engineer</b>.  
       It connects clients to cleaning professionals with the same practicality of <b>Uber</b> and trust layer of <b>Airbnb</b>.  
-      The project was designed end-to-end by me — from product vision and market analysis to mobile app, backend architecture, and deployment in the cloud.
+      The project was designed end-to-end by me -- from product vision and market analysis to mobile app, backend architecture, and deployment in the cloud.
     </p>
   </li>
+
   <li>
     <p>
-      <b>Mobile App (React Native + Expo)</b>: complete client & provider flows (registration, scheduling, chat, profile, reviews, payments).  
-      Built with <b>Expo Router</b> for structured navigation, <b>TanStack Query</b> for efficient data caching, and <b>TypeScript</b> for scalability and reliability.  
-      Includes advanced features like <b>dynamic pricing</b> (hourly, per room, per m², or fixed), coupon system, subscriptions, and LGPD-compliant data handling.
+      <b>🚀 SaaS Product Vision & Investor Highlights:</b>
+      <ul>
+        <li>
+          <p>
+            <b>High-Impact Market</b>: LimpeJá targets the Brazilian home-cleaning industry (R$40B/year), where only 15% of providers are digitalized.  
+            This untapped market positions LimpeJá as the potential <b>#1 national player</b> in on-demand cleaning.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>Strong Unit Economics</b>: Average ticket of <b>R$300</b> per service with 15% commission (R$45 net revenue).  
+            With only 1,000 bookings/month in one city, the platform generates <b>R$45,000 MRR</b>.  
+            At 5,000 bookings, the business reaches <b>R$225,000 MRR</b> -- with scalability city by city.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>Recurring & Scalable SaaS Model</b>: Revenue comes from per-transaction commissions, recurring subscriptions for clients (premium with insurance & perks), and potential B2B contracts (condos, real estate, corporates).  
+            This mix ensures <b>recurring income, low churn, and LTV growth</b>.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>Technical Moat</b>: Built with a modern stack -- React Native, Expo Router, TanStack Query, NestJS, Prisma, PostGIS, Redis, WebSockets, Docker/K8s -- allowing <b>scale, speed, and reliability</b>.  
+            Competitors operate with legacy or generic platforms, while LimpeJá has <b>trust & payout layers</b> (KYC, OCR, facial recognition, instant PIX) fully integrated.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>Founder-Driven Execution</b>: Entirely developed and architected by a <b>solo founder & full stack engineer</b> with end-to-end expertise:  
+            market analysis → UX design → backend infrastructure → mobile app → growth strategy.  
+            This efficiency means capital raised will go directly to <b>scale and acquisition</b>, not fixing technical debt.
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>Impact & Vision</b>: Beyond a marketplace, LimpeJá transforms cleaning professionals into <b>micro-entrepreneurs</b>, offering autonomy, financial transparency, and digital reputation.  
+            This aligns with Brazil’s shift from informality to formalized gig economy -- an opportunity for a <b>category leader with social and financial impact</b>.
+          </p>
+        </li>
+      </ul>
     </p>
   </li>
-  <li>
-    <p>
-      <b>Backend (NestJS + Prisma + Postgres/PostGIS)</b>: modular and production-ready API.  
-      Supports <b>real-time updates</b> (WebSockets), <b>queue processing</b> for heavy tasks, <b>Redis caching</b>, and <b>geospatial search</b> for nearby providers.  
-      Implements <b>trust & safety layer</b> with document verification, selfie recognition, and background checks.  
-      Integrated <b>PIX instant payments</b> with withdrawal in less than 24h, solving the biggest pain point for providers.
-    </p>
-  </li>
+
   <li>
     <p>
       <b>Core Features</b>:  
       <ul>
         <li>📱 <b>Clean and intuitive UX (Uber-like)</b>: ultra-fast flow from splash → login → signup → personalized home → booking → PIX payment. Includes smart recommendations, cancellation policies, and in-app chat for seamless communication.</li>
-<li>👩‍🔧 <b>Empowerment for providers</b>: complete autonomy to set prices, choose services, and manage schedules. Verified onboarding with document upload + facial recognition. Providers gain professional dashboards with history, earnings summary, and withdrawal requests — elevating the experience to "driver-of-app" status.</li>
-<li>💸 <b>Financial transparency</b>: real-time earnings dashboard, upcoming jobs, and reviews. Instant PIX withdrawals (<24h) eliminate the #1 pain in the informal sector: uncertainty of payment. Dynamic pricing and surge incentives help fill idle hours and increase income.</li>
-<li>🔐 <b>Security-first</b>: robust KYC (OCR + selfie + background check), device fingerprinting, and fraud prevention for coupons. LGPD compliance highlighted in onboarding for client trust. Optional service guarantee/insurance with simplified claims process directly in-app.</li>
-<li>🤝 <b>Reputation system</b>: two-way ratings (client ↔ provider), badges like "Top of the neighborhood" and "100 services 5⭐", plus local ranking boards to reward consistency and quality. This builds community-driven trust.</li>
-<li>📊 <b>Growth mechanics</b>: referral program with attractive credit, first-service coupons, recurring bookings with discounts, and subscription plans that include insurance and priority scheduling. Marketing playbook includes hyperlocal influencers, SEO (Google My Business), and B2B2C partnerships (condos, real estate managers, beauty salons, churches).</li>
-
+        <li>👩‍🔧 <b>Empowerment for providers</b>: complete autonomy to set prices, choose services, and manage schedules. Verified onboarding with document upload + facial recognition. Providers gain professional dashboards with history, earnings summary, and withdrawal requests -- elevating the experience to "driver-of-app" status.</li>
+        <li>💸 <b>Financial transparency</b>: real-time earnings dashboard, upcoming jobs, and reviews. Instant PIX withdrawals (&lt;24h) eliminate the #1 pain in the informal sector: uncertainty of payment. Dynamic pricing and surge incentives help fill idle hours and increase income.</li>
+        <li>🔐 <b>Security-first</b>: robust KYC (OCR + selfie + background check), device fingerprinting, and fraud prevention for coupons. LGPD compliance highlighted in onboarding for client trust. Optional service guarantee/insurance with simplified claims process directly in-app.</li>
+        <li>🤝 <b>Reputation system</b>: two-way ratings (client ↔ provider), badges like "Top of the neighborhood" and "100 services 5⭐", plus local ranking boards to reward consistency and quality. This builds community-driven trust.</li>
+        <li>📊 <b>Growth mechanics</b>: referral program with attractive credit, first-service coupons, recurring bookings with discounts, and subscription plans that include insurance and priority scheduling. Marketing playbook includes hyperlocal influencers, SEO (Google My Business), and B2B2C partnerships (condos, real estate managers, beauty salons, churches).</li>
+      </ul>
+    </p>
   </li>
+
+  <li>
+    <p>
+      <b>Additional Functionalities</b>:  
+      <ul>
+        <li>⚡ <b>Dispute resolution system</b>: built-in mediation flow between client and provider, reducing churn and ensuring trust.</li>
+        <li>🗂️ <b>Service categories & dynamic catalog</b>: flexible setup for one-off services (cleaning, ironing, organization) and packages (weekly, monthly).</li>
+        <li>🛠️ <b>Admin dashboard</b>: monitoring KPIs (NPS, churn, retention, CAC/LTV), fraud alerts, and financial health of the marketplace.</li>
+        <li>📍 <b>Geolocation & smart matching</b>: PostGIS-powered search to match clients with nearby providers, optimizing time and travel cost.</li>
+        <li>🔔 <b>Real-time notifications</b>: WebSocket-powered updates for bookings, cancellations, payments, and disputes.</li>
+        <li>📈 <b>Scalable architecture</b>: NestJS microservices, Redis caching, BullMQ queues, Prisma ORM, and cloud-ready deployment with Docker/Kubernetes.</li>
+      </ul>
+    </p>
+  </li>
+  
   <li>
     <p>
       <b>What makes it unique</b>: Unlike generic competitors, LimpeJá was designed to be the first  

@@ -34,52 +34,6 @@
 
   <li>
     <p>
-      <b>🚀 SaaS Product Vision & Investor Highlights:</b>
-      <ul>
-        <li>
-          <p>
-            <b>High-Impact Market</b>: LimpeJá targets the Brazilian home-cleaning industry (R$40B/year), where only 15% of providers are digitalized.  
-            This untapped market positions LimpeJá as the potential <b>#1 national player</b> in on-demand cleaning.
-          </p>
-        </li>
-        <li>
-          <p>
-            <b>Strong Unit Economics</b>: Average ticket of <b>R$300</b> per service with 15% commission (R$45 net revenue).  
-            With only 1,000 bookings/month in one city, the platform generates <b>R$45,000 MRR</b>.  
-            At 5,000 bookings, the business reaches <b>R$225,000 MRR</b> -- with scalability city by city.
-          </p>
-        </li>
-        <li>
-          <p>
-            <b>Recurring & Scalable SaaS Model</b>: Revenue comes from per-transaction commissions, recurring subscriptions for clients (premium with insurance & perks), and potential B2B contracts (condos, real estate, corporates).  
-            This mix ensures <b>recurring income, low churn, and LTV growth</b>.
-          </p>
-        </li>
-        <li>
-          <p>
-            <b>Technical Moat</b>: Built with a modern stack -- React Native, Expo Router, TanStack Query, NestJS, Prisma, PostGIS, Redis, WebSockets, Docker/K8s -- allowing <b>scale, speed, and reliability</b>.  
-            Competitors operate with legacy or generic platforms, while LimpeJá has <b>trust & payout layers</b> (KYC, OCR, facial recognition, instant PIX) fully integrated.
-          </p>
-        </li>
-        <li>
-          <p>
-            <b>Founder-Driven Execution</b>: Entirely developed and architected by a <b>solo founder & full stack engineer</b> with end-to-end expertise:  
-            market analysis → UX design → backend infrastructure → mobile app → growth strategy.  
-            This efficiency means capital raised will go directly to <b>scale and acquisition</b>, not fixing technical debt.
-          </p>
-        </li>
-        <li>
-          <p>
-            <b>Impact & Vision</b>: Beyond a marketplace, LimpeJá transforms cleaning professionals into <b>micro-entrepreneurs</b>, offering autonomy, financial transparency, and digital reputation.  
-            This aligns with Brazil’s shift from informality to formalized gig economy -- an opportunity for a <b>category leader with social and financial impact</b>.
-          </p>
-        </li>
-      </ul>
-    </p>
-  </li>
-
-  <li>
-    <p>
       <b>Core Features</b>:  
       <ul>
         <li>📱 <b>Clean and intuitive UX (Uber-like)</b>: ultra-fast flow from splash → login → signup → personalized home → booking → PIX payment. Includes smart recommendations, cancellation policies, and in-app chat for seamless communication.</li>

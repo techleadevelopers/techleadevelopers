@@ -22,15 +22,54 @@
 <hr>
 <br>
 
-<h3>✨ LimpeJá Marketplace (Full Stack & Mobile Marketplace)</h3>
+<h3>✨ LimpeJá Marketplace (Founder & Full Stack Developer)</h3>
 <ul>
-    <li>
-        <p>A mobile marketplace built with <b>React Native</b> and <b>Expo</b>. It’s designed to help people find cleaning and organization services easily.
-      It handles everything from when a user signs up to when a service provider gets booked and paid, including scheduling and setting prices that change based on demand.
-       Uses modern tech like <b>Expo Router</b>, <b>TanStack Query</b> for managing data efficiently, and <b>TypeScript</b> to make sure the code is solid.</p>
-    </li>
+  <li>
+    <p>
+      <b>LimpeJá</b> is a <b>mobile-first marketplace</b> I founded and fully developed as the <b>sole engineer</b>.  
+      It connects clients to cleaning professionals with the same practicality of <b>Uber</b> and trust layer of <b>Airbnb</b>.  
+      The project was designed end-to-end by me — from product vision and market analysis to mobile app, backend architecture, and deployment in the cloud.
+    </p>
+  </li>
+  <li>
+    <p>
+      <b>Mobile App (React Native + Expo)</b>: complete client & provider flows (registration, scheduling, chat, profile, reviews, payments).  
+      Built with <b>Expo Router</b> for structured navigation, <b>TanStack Query</b> for efficient data caching, and <b>TypeScript</b> for scalability and reliability.  
+      Includes advanced features like <b>dynamic pricing</b> (hourly, per room, per m², or fixed), coupon system, subscriptions, and LGPD-compliant data handling.
+    </p>
+  </li>
+  <li>
+    <p>
+      <b>Backend (NestJS + Prisma + Postgres/PostGIS)</b>: modular and production-ready API.  
+      Supports <b>real-time updates</b> (WebSockets), <b>queue processing</b> for heavy tasks, <b>Redis caching</b>, and <b>geospatial search</b> for nearby providers.  
+      Implements <b>trust & safety layer</b> with document verification, selfie recognition, and background checks.  
+      Integrated <b>PIX instant payments</b> with withdrawal in less than 24h, solving the biggest pain point for providers.
+    </p>
+  </li>
+  <li>
+    <p>
+      <b>Core Features</b>:  
+      <ul>
+        <li>📱 <b>Clean and intuitive UX (Uber-like)</b>: ultra-fast flow from splash → login → signup → personalized home → booking → PIX payment. Includes smart recommendations, cancellation policies, and in-app chat for seamless communication.</li>
+<li>👩‍🔧 <b>Empowerment for providers</b>: complete autonomy to set prices, choose services, and manage schedules. Verified onboarding with document upload + facial recognition. Providers gain professional dashboards with history, earnings summary, and withdrawal requests — elevating the experience to "driver-of-app" status.</li>
+<li>💸 <b>Financial transparency</b>: real-time earnings dashboard, upcoming jobs, and reviews. Instant PIX withdrawals (<24h) eliminate the #1 pain in the informal sector: uncertainty of payment. Dynamic pricing and surge incentives help fill idle hours and increase income.</li>
+<li>🔐 <b>Security-first</b>: robust KYC (OCR + selfie + background check), device fingerprinting, and fraud prevention for coupons. LGPD compliance highlighted in onboarding for client trust. Optional service guarantee/insurance with simplified claims process directly in-app.</li>
+<li>🤝 <b>Reputation system</b>: two-way ratings (client ↔ provider), badges like "Top of the neighborhood" and "100 services 5⭐", plus local ranking boards to reward consistency and quality. This builds community-driven trust.</li>
+<li>📊 <b>Growth mechanics</b>: referral program with attractive credit, first-service coupons, recurring bookings with discounts, and subscription plans that include insurance and priority scheduling. Marketing playbook includes hyperlocal influencers, SEO (Google My Business), and B2B2C partnerships (condos, real estate managers, beauty salons, churches).</li>
 
+      </ul>
+    </p>
+  </li>
+  <li>
+    <p>
+      <b>What makes it unique</b>: Unlike generic competitors, LimpeJá was designed to be the first  
+      <b>national reference in cleaning services</b> in Brazil, combining trust, speed, and economic empowerment.  
+      Built entirely by me as a <b>solo founder & full stack engineer</b>, it demonstrates not only technical execution but also  
+      <b>market vision, business model design, and go-to-market strategy</b>.
+    </p>
+  </li>
 </ul>
+
 <hr>
 <br>
 

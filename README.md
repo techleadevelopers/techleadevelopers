@@ -57,8 +57,6 @@
 <li>🤝 <b>Reputation system</b>: two-way ratings (client ↔ provider), badges like "Top of the neighborhood" and "100 services 5⭐", plus local ranking boards to reward consistency and quality. This builds community-driven trust.</li>
 <li>📊 <b>Growth mechanics</b>: referral program with attractive credit, first-service coupons, recurring bookings with discounts, and subscription plans that include insurance and priority scheduling. Marketing playbook includes hyperlocal influencers, SEO (Google My Business), and B2B2C partnerships (condos, real estate managers, beauty salons, churches).</li>
 
-      </ul>
-    </p>
   </li>
   <li>
     <p>

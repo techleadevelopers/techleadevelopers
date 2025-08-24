@@ -34,7 +34,7 @@
 
   <li>
     <p>
-      <b>Core Features</b>:  
+      <b>Core Features</b>:
       <ul>
         <li>📱 <b>Clean and intuitive UX (Uber-like)</b>: ultra-fast flow from splash → login → signup → personalized home → booking → PIX payment. Includes smart recommendations, cancellation policies, and in-app chat for seamless communication.</li>
         <li>👩‍🔧 <b>Empowerment for providers</b>: complete autonomy to set prices, choose services, and manage schedules. Verified onboarding with document upload + facial recognition. Providers gain professional dashboards with history, earnings summary, and withdrawal requests -- elevating the experience to "driver-of-app" status.</li>
@@ -42,13 +42,25 @@
         <li>🔐 <b>Security-first</b>: robust KYC (OCR + selfie + background check), device fingerprinting, and fraud prevention for coupons. LGPD compliance highlighted in onboarding for client trust. Optional service guarantee/insurance with simplified claims process directly in-app.</li>
         <li>🤝 <b>Reputation system</b>: two-way ratings (client ↔ provider), badges like "Top of the neighborhood" and "100 services 5⭐", plus local ranking boards to reward consistency and quality. This builds community-driven trust.</li>
         <li>📊 <b>Growth mechanics</b>: referral program with attractive credit, first-service coupons, recurring bookings with discounts, and subscription plans that include insurance and priority scheduling. Marketing playbook includes hyperlocal influencers, SEO (Google My Business), and B2B2C partnerships (condos, real estate managers, beauty salons, churches).</li>
+
+        <!-- NEW -->
+        <li>🚀 <b>Smart ranking engine</b>: ordered provider lists that blend rating, completed bookings, 5★ share, review recency, distance, <i>acceptanceRate</i> and <i>averageResponseTime</i>. Tunable weights, decay and anti-gaming guards. :contentReference[oaicite:0]{index=0}</li>
+
+        <!-- NEW -->
+        <li>🎯 <b>Missions & rewards (gamified)</b>: event-driven missions (COUNT_EVENT, STREAK_DAYS, WITHIN_WINDOW) with claimable rewards (coupons or loyalty points) — including provider-focused goals like “10 jobs in a month”. Idempotent progress tracking & safe claiming. :contentReference[oaicite:1]{index=1}</li>
+
+        <!-- NEW -->
+        <li>💵 <b>PIX payments & instant withdrawals</b>: backend-issued PIX charge (BR Code/QR) and provider withdrawals, surfaced in booking success and earnings flows. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}</li>
+
+        <!-- NEW -->
+        <li>📈 <b>Provider performance metrics</b>: <i>acceptanceRate</i> & <i>averageResponseTime</i> exposed in profile/dashboard and used by ranking & discovery. :contentReference[oaicite:4]{index=4}</li>
       </ul>
     </p>
   </li>
 
   <li>
     <p>
-      <b>Additional Functionalities</b>:  
+      <b>Additional Functionalities</b>:
       <ul>
         <li>⚡ <b>Dispute resolution system</b>: built-in mediation flow between client and provider, reducing churn and ensuring trust.</li>
         <li>🗂️ <b>Service categories & dynamic catalog</b>: flexible setup for one-off services (cleaning, ironing, organization) and packages (weekly, monthly).</li>
@@ -56,9 +68,22 @@
         <li>📍 <b>Geolocation & smart matching</b>: PostGIS-powered search to match clients with nearby providers, optimizing time and travel cost.</li>
         <li>🔔 <b>Real-time notifications</b>: WebSocket-powered updates for bookings, cancellations, payments, and disputes.</li>
         <li>📈 <b>Scalable architecture</b>: NestJS microservices, Redis caching, BullMQ queues, Prisma ORM, and cloud-ready deployment with Docker/Kubernetes.</li>
+
+        <!-- NEW -->
+        <li>🆘 <b>Safety & panic alerts</b>: endpoints for incident/panic flow, enabling rapid assistance and auditability. :contentReference[oaicite:5]{index=5}</li>
+
+        <!-- NEW -->
+        <li>🧲 <b>Referrals + Loyalty + Missions</b>: tracked referrals that credit loyalty points and can trigger mission conversions after first booking. :contentReference[oaicite:6]{index=6}</li>
+
+        <!-- NEW -->
+        <li>🎟️ <b>Reviews analytics & AI replies</b>: detailed rating breakdown and suggested responses to reviews to help providers win trust at scale. :contentReference[oaicite:7]{index=7}</li>
+
+        <!-- NEW -->
+        <li>🛟 <b>Support & SLA</b>: typed Support module (tickets, messages, SLA logs) prepared for help center and agent workflows. :contentReference[oaicite:8]{index=8}</li>
       </ul>
     </p>
   </li>
+</ul>
   
   <li>
     <p>

@@ -19,7 +19,7 @@
 <p>My work combines building software from start to finish with cool machine learning applications. Here are a few projects that show what I can do:</p>
 
 
- <h1></h1><h3><img src="https://drive.google.com/uc?id=1PkFFe5bAEVf-x-nPD3BMO21gptKfFosu" alt="LimpeJá-App Logo" width="50" align="center" margin="50" >LimpeJá Marketplace (Founder & Full Stack Developer)</h3>
+ <h1></h1><h3><img src="https://drive.google.com/uc?id=1PkFFe5bAEVf-x-nPD3BMO21gptKfFosu" alt="LimpeJá-App Logo" width="60" align="center" margin="50" >LimpeJá Marketplace (Founder & Full Stack Developer)</h3>
 <ul>
   <li>
     <p>
@@ -79,7 +79,7 @@
 <hr>
 <br>
 
-<h3><img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui-App Logo" width="50" align="center" margin="50" > Bilingui-AI (Full Stack & Local AI)</h3>
+<h3><img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui-App Logo" width="60" align="center" margin="50" > Bilingui-AI (Full Stack & Local AI)</h3>
 <ul>
     <li>
         <p>A fun language learning platform that uses <b>local AI models (Whisper & Mistral)</b> to give you real-time feedback on your speech and have conversations that make sense.</p>
@@ -92,7 +92,7 @@
 <hr>
 <br>
 
-<h3><img src="https://drive.google.com/uc?id=1080AG5wpYs2Fyc6TVXkNRDI81YUpWNOf" alt="VitalFlow-App Logo" width="150" align="center" margin="50" > VitalFlow IA (AI for Healthcare)</h3>
+<h3><img src="https://drive.google.com/uc?id=1080AG5wpYs2Fyc6TVXkNRDI81YUpWNOf" alt="VitalFlow-App Logo" width="100" align="center" margin="50" > VitalFlow IA (AI for Healthcare)</h3>
 <ul>
     <li>
         <p>A smart platform that uses <b>AI to help hospitals manage things better</b> by predicting risks in real-time and making sure resources are used efficiently.</p>

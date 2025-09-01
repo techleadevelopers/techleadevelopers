@@ -79,7 +79,7 @@
 <hr>
 <br>
 
-<h3>🤖 Bilingui-AI (Full Stack & Local AI)</h3>
+<h3><img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui-App Logo" width="50" align="center" margin="50" > Bilingui-AI (Full Stack & Local AI)</h3>
 <ul>
     <li>
         <p>A fun language learning platform that uses <b>local AI models (Whisper & Mistral)</b> to give you real-time feedback on your speech and have conversations that make sense.</p>

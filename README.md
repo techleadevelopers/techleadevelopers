@@ -76,6 +76,7 @@
   </li>
 </ul>
 
+<br>
 <h1></h1>
 
 <h3><img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui-App Logo" width="50" align="center" margin="50" > Bilingui-AI (Full Stack & Local AI)</h3>

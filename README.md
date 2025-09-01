@@ -92,7 +92,7 @@
 <hr>
 <br>
 
-<h3><img src="https://drive.google.com/uc?id=1Y38l0AkAX-jnD1EZ5OWc_0Y88_SjuFXe" alt="VitalFlow-App Logo" width="50" align="center" margin="50" > VitalFlow IA (AI for Healthcare)</h3>
+<h3><img src="https://drive.google.com/uc?id=1Y38l0AkAX-jnD1EZ5OWc_0Y88_SjuFXe" alt="VitalFlow-App Logo" width="90" align="center" margin="50" > VitalFlow IA (AI for Healthcare)</h3>
 <ul>
     <li>
         <p>A smart platform that uses <b>AI to help hospitals manage things better</b> by predicting risks in real-time and making sure resources are used efficiently.</p>

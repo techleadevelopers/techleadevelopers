@@ -88,6 +88,7 @@
 
 </ul>
 
+<br>
 <h1></h1>
 
 <h3><img src="https://drive.google.com/uc?id=1080AG5wpYs2Fyc6TVXkNRDI81YUpWNOf" alt="VitalFlow-App Logo" width="80" align="center" margin="50" > VitalFlow IA (AI for Healthcare)</h3>
@@ -98,6 +99,7 @@
     </li>
 </ul>
 
+<br>
 <h1></h1>
 
 <h3>🛡️ SOC - APT Defense Universe (Cybersecurity & Simulation)</h3>
@@ -109,6 +111,7 @@
    
 </ul>
 
+<br>
 <h1></h1>
 
 ### 🛠️ My Technical Skills

@@ -14,7 +14,7 @@
  <h1></h1>
 
 
-### <img src="https://drive.google.com/uc?id=1YLV4uEkTkcSb9IzceYSlIGWGxEKSrPwp" alt="Settings Icon" width="60" align="center"> My Key Projects
+### <img src="https://drive.google.com/uc?id=1L6sWJ3hgcewh389MvYfGGl5Wn03KSZi_" alt="Settings Icon" width="60" align="center"> My Key Projects
 
 <p>My work combines building software from start to finish with cool machine learning applications. Here are a few projects that show what I can do:</p>
 

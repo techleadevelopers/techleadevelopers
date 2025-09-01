@@ -76,8 +76,7 @@
   </li>
 </ul>
 
-<hr>
-<br>
+<h1></h1>
 
 <h3><img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui-App Logo" width="50" align="center" margin="50" > Bilingui-AI (Full Stack & Local AI)</h3>
 <ul>
@@ -88,9 +87,7 @@
 
 </ul>
 
-<br>
-<hr>
-<br>
+<h1></h1>
 
 <h3><img src="https://drive.google.com/uc?id=1080AG5wpYs2Fyc6TVXkNRDI81YUpWNOf" alt="VitalFlow-App Logo" width="80" align="center" margin="50" > VitalFlow IA (AI for Healthcare)</h3>
 <ul>
@@ -100,9 +97,7 @@
     </li>
 </ul>
 
-<br>
-<hr>
-<br>
+<h1></h1>
 
 <h3>🛡️ SOC - APT Defense Universe (Cybersecurity & Simulation)</h3>
 <ul>
@@ -113,9 +108,7 @@
    
 </ul>
 
-<br>
-<hr>
-<br>
+<h1></h1>
 
 ### 🛠️ My Technical Skills
 
@@ -133,9 +126,7 @@
     </li>
 </ul>
 
-<br>
-<hr>
-<br>
+<h1></h1>
 
 ### 🤝 Let's Connect!
 

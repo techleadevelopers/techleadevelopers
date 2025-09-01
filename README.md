@@ -41,8 +41,8 @@
         <li>📊 <b>Growth mechanics</b>: referral program with attractive credit, first-service coupons, recurring bookings with discounts, and subscription plans that include insurance and priority scheduling. Marketing playbook includes hyperlocal influencers, SEO (Google My Business), and B2B2C partnerships (condos, real estate managers, beauty salons, churches).</li>
         <li>🚀 <b>Smart ranking engine</b>: ordered provider lists that blend rating, completed bookings, 5★ share, review recency, distance, <i>acceptanceRate</i> and <i>averageResponseTime</i>. </li>
         <li>🎯 <b>Missions & rewards (gamified)</b>: event-driven missions (COUNT_EVENT, STREAK_DAYS, WITHIN_WINDOW) with claimable rewards (coupons or loyalty points) — including provider-focused goals like “10 jobs in a month”. Idempotent progress tracking & safe claiming. :contentReference[oaicite:1]{index=1}</li>
-        <li>💵 <b>PIX payments & instant withdrawals</b>: backend-issued PIX charge (BR Code/QR) and provider withdrawals, surfaced in booking success and earnings flows. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}</li>
-        <li>📈 <b>Provider performance metrics</b>: <i>acceptanceRate</i> & <i>averageResponseTime</i> exposed in profile/dashboard and used by ranking & discovery. :contentReference[oaicite:4]{index=4}</li>
+        <li>💵 <b>PIX payments & instant withdrawals</b>: backend-issued PIX charge (BR Code/QR) and provider withdrawals, surfaced in booking success and earnings flows.</li>
+        <li>📈 <b>Provider performance metrics</b>: <i>acceptanceRate</i> & <i>averageResponseTime</i> exposed in profile/dashboard and used by ranking & discovery. </li>
       </ul>
 
   </li>
@@ -57,10 +57,10 @@
         <li>📍 <b>Geolocation & smart matching</b>: PostGIS-powered search to match clients with nearby providers, optimizing time and travel cost.</li>
         <li>🔔 <b>Real-time notifications</b>: WebSocket-powered updates for bookings, cancellations, payments, and disputes.</li>
         <li>📈 <b>Scalable architecture</b>: NestJS microservices, Redis caching, BullMQ queues, Prisma ORM, and cloud-ready deployment with Docker/Kubernetes.</li>
-        <li>🆘 <b>Safety & panic alerts</b>: endpoints for incident/panic flow, enabling rapid assistance and auditability. :contentReference[oaicite:5]{index=5}</li>
-        <li>🧲 <b>Referrals + Loyalty + Missions</b>: tracked referrals that credit loyalty points and can trigger mission conversions after first booking. :contentReference[oaicite:6]{index=6}</li>
-        <li>🎟️ <b>Reviews analytics & AI replies</b>: detailed rating breakdown and suggested responses to reviews to help providers win trust at scale. :contentReference[oaicite:7]{index=7}</li>
-        <li>🛟 <b>Support & SLA</b>: typed Support module (tickets, messages, SLA logs) prepared for help center and agent workflows. :contentReference[oaicite:8]{index=8}</li>
+        <li>🆘 <b>Safety & panic alerts</b>: endpoints for incident/panic flow, enabling rapid assistance and auditability. </li>
+        <li>🧲 <b>Referrals + Loyalty + Missions</b>: tracked referrals that credit loyalty points and can trigger mission conversions after first booking.</li>
+        <li>🎟️ <b>Reviews analytics & AI replies</b>: detailed rating breakdown and suggested responses to reviews to help providers win trust at scale.</li>
+        <li>🛟 <b>Support & SLA</b>: typed Support module (tickets, messages, SLA logs) prepared for help center and agent workflows. </li>
       </ul>
     </p>
   </li>

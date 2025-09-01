@@ -11,16 +11,13 @@
     <img src="https://skillicons.dev/icons?i=py,go,rust,cpp,ts,js,html,css,latex,ai,fastapi,nodejs,spring,react,nextjs,svelte,tailwind,tauri,vite,electron,npm,figma,obsidian,aws,azure,gcp,terraform,docker,kubernetes,nginx,linux,arch,bsd,bash,sqlite,postgresql,dynamodb,cassandra,mongodb,elasticsearch,redis,graphql,kafka,rabbitmq,tensorflow,opencv,pytorch,grafana,prometheus,github,gitlab,git,vscode,md&perline=18" alt="Cre4T3Tiv3 skill icons" />
   </a>
 </p>
-<hr>
-<br>
+ <h1></h1>
 
 
 ### ⚙️ My Key Projects
 
 <p>My work combines building software from start to finish with cool machine learning applications. Here are a few projects that show what I can do:</p>
 
-<hr>
-<br>
 
  <h1></h1><h3><img src="https://drive.google.com/uc?id=1PkFFe5bAEVf-x-nPD3BMO21gptKfFosu" alt="LimpeJá-App Logo" width="50" align="center" margin="50" >LimpeJá Marketplace (Founder & Full Stack Developer)</h3>
 <ul>

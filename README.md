@@ -22,7 +22,7 @@
 <hr>
 <br>
 
-<img src="https://drive.google.com/uc?id=1PkFFe5bAEVf-x-nPD3BMO21gptKfFosu" alt="LimpeJá-App Logo" width="80"><h3> LimpeJá Marketplace (Founder & Full Stack Developer)</h3>
+ <h3><img src="https://drive.google.com/uc?id=1PkFFe5bAEVf-x-nPD3BMO21gptKfFosu" alt="LimpeJá-App Logo" width="30"><h3>LimpeJá Marketplace (Founder & Full Stack Developer)</h3>
 <ul>
   <li>
     <p>

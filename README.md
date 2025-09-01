@@ -19,7 +19,7 @@
 <p>My work combines building software from start to finish with cool machine learning applications. Here are a few projects that show what I can do:</p>
 
 
- <h1></h1><h3><img src="https://drive.google.com/uc?id=1PkFFe5bAEVf-x-nPD3BMO21gptKfFosu" alt="LimpeJá-App Logo" width="50" align="center" margin="50" >LimpeJá Marketplace (Founder & Full Stack Developer)</h3>
+ <h1></h1><h3><img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá-App Logo" width="50" align="center" margin="50" >LimpeJá Marketplace (Founder & Full Stack Developer)</h3>
 <ul>
   <li>
     <p>

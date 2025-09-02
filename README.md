@@ -102,14 +102,6 @@
 <br>
 <h1></h1>
 
-<h3>🛡️ SOC - APT Defense Universe (Cybersecurity & Simulation)</h3>
-<ul>
-    <li>
-        <p>A platform that <b>simulates a Security Operations Center (SOC)</b> to help train people who work in cybersecurity.</p>
-      <p>Developed using <b>React and TypeScript</b>, this project demonstrates a good understanding of security stuff, how to <b>simulate data</b>, and how to build modern websites.</p>
-    </li>
-   
-</ul>
 
 <br>
 <h1></h1>

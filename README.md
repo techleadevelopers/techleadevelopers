@@ -88,19 +88,7 @@
 
 </ul>
 
-<br>
-<h1></h1>
 
-<h3><img src="https://drive.google.com/uc?id=1080AG5wpYs2Fyc6TVXkNRDI81YUpWNOf" alt="VitalFlow-App Logo" width="80" align="center" margin="50" > VitalFlow IA (AI for Healthcare)</h3>
-<ul>
-    <li>
-        <p>A smart platform that uses <b>AI to help hospitals manage things better</b> by predicting risks in real-time and making sure resources are used efficiently.</p>
-      <p>This project focuses on being easy to check, helping prevent problems before they happen, and making decisions based on data in a really important field.</p>
-    </li>
-</ul>
-
-<br>
-<h1></h1>
 
 
 <br>

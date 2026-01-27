@@ -19,7 +19,7 @@
 ## <img src="https://drive.google.com/uc?id=1L6sWJ3hgcewh389MvYfGGl5Wn03KSZi_" alt="Settings Icon" width="33" align="center"> Production Systems
 
 ### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="40" align="center"> **LimpeJá Marketplace** - *Founder & Full Stack Developer*
-> Uber-like platform for cleaning services | **91 providers** | **51 active clients** | **R$ 42,850+ GMV**
+> Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**
 
 **📈 Key Metrics:**
 - **64% match rate** between supply/demand
@@ -27,28 +27,19 @@
 - **4% weekly growth** in active providers
 - **100% solo-built** from concept to deployment
 
-**🔧 Core Architecture:**
-<ul>
-  <li><b>Frontend:</b> React Native • TypeScript • Tailwind CSS</li>
-  <li><b>Backend:</b> NestJS • FastAPI • PostgreSQL • Redis • BullMQ</li>
-  <li><b>ML/AI:</b> Custom ranking algorithms • OpenCV • Facial Recognition</li>
-  <li><b>Cloud:</b> AWS/GCP • Docker • Kubernetes • Terraform</li>
-</ul>
 
-**✨ Key Features:**
-**✨ Key Features:**
-
+** 🌍 Ecosystems Features:**
 <ul>
-  <li>📱 Uber-like UX with PIX payments</li>
-  <li>👩‍🔧 Provider autonomy & dashboards</li>
-  <li>💸 Instant withdrawals (<24h)</li>
-  <li>🔐 KYC with facial recognition</li>
-  <li>🤝 Two-way rating system</li>
-  <li>🧠 AI-powered matching engine</li>
-  <li>🎯 Gamified missions</li>
-  <li>📍 PostGIS geolocation</li>
-  <li>⚡ Microservices architecture</li>
-  <li>📊 Real-time admin dashboard</li>
+<li>📱 <b>Clean and intuitive UX (Uber-like)</b>: ultra-fast flow from splash → login → signup → personalized home → booking → PIX payment. Includes smart recommendations, cancellation policies, and in-app chat for seamless communication.</li>
+        <li>👩‍🔧 <b>Empowerment for providers</b>: complete autonomy to set prices, choose services, and manage schedules. Verified onboarding with document upload + facial recognition. Providers gain professional dashboards with history, earnings summary, and withdrawal requests -- elevating the experience to "driver-of-app" status.</li>
+        <li>💸 <b>Financial transparency</b>: real-time earnings dashboard, upcoming jobs, and reviews. Instant PIX withdrawals (&lt;24h) eliminate the #1 pain in the informal sector: uncertainty of payment. Dynamic pricing and surge incentives help fill idle hours and increase income.</li>
+        <li>🔐 <b>Security-first</b>: robust KYC (OCR + selfie + background check), device fingerprinting, and fraud prevention for coupons. LGPD compliance highlighted in onboarding for client trust. Optional service guarantee/insurance with simplified claims process directly in-app.</li>
+        <li>🤝 <b>Reputation system</b>: two-way ratings (client ↔ provider), badges like "Top of the neighborhood" and "100 services 5⭐", plus local ranking boards to reward consistency and quality. This builds community-driven trust.</li>
+        <li>📊 <b>Growth mechanics</b>: referral program with attractive credit, first-service coupons, recurring bookings with discounts, and subscription plans that include insurance and priority scheduling. Marketing playbook includes hyperlocal influencers, SEO (Google My Business), and B2B2C partnerships (condos, real estate managers, beauty salons, churches).</li>
+        <li>🚀 <b>Smart ranking engine</b>: ordered provider lists that blend rating, completed bookings, 5★ share, review recency, distance, <i>acceptanceRate</i> and <i>averageResponseTime</i>. </li>
+        <li>🎯 <b>Missions & rewards (gamified)</b>: event-driven missions (COUNT_EVENT, STREAK_DAYS, WITHIN_WINDOW) with claimable rewards (coupons or loyalty points) — including provider-focused goals like “10 jobs in a month”. Idempotent progress tracking & safe claiming. :contentReference[oaicite:1]{index=1}</li>
+        <li>💵 <b>PIX payments & instant withdrawals</b>: backend-issued PIX charge (BR Code/QR) and provider withdrawals, surfaced in booking success and earnings flows.</li>
+        <li>📈 <b>Provider performance metrics</b>: <i>acceptanceRate</i> & <i>averageResponseTime</i> exposed in profile/dashboard and used by ranking & discovery. </li>
 </ul> 
 
 **🚀 Current Focus:** Scaling to 500+ providers before Google Play launch (Jan 01)

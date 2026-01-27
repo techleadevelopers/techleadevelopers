@@ -3,7 +3,7 @@
   <p>
   </p>
   <h3>💼 Software Engineer • AI/ML • Production Systems</h3>
-  <p>🤝 Shipping end-to-end products from concept to scalable production with real users</p>
+  <p> Shipping end-to-end products from concept to scalable production with real users</p>
 </div>
 
 <br>

@@ -21,12 +21,19 @@
 ### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="40" align="center"> **LimpeJá Marketplace** - *Founder & Full Stack Developer*
 > Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**
 
-| 📈 **Key Metrics** | 🌍 **Ecosystems Features** |
-|:-------------------|:---------------------------|
-| • **64% match rate** between supply/demand<br>• **44% week-over-week growth** in GMV<br>• **4% weekly growth** in active providers<br>• **100% solo-built** from concept to deployment | • 📱 **Uber-like UX** with smart recommendations<br>• 👩‍🔧 **Provider autonomy** on pricing & schedules<br>• 💸 **Instant PIX withdrawals** (<24h)<br>• 🔐 **KYC** with facial recognition<br>• 🤝 **Two-way rating system**<br>• 🧠 **AI-powered ranking engine** |
+### 📈 Key Metrics
+- **64% match rate** between supply/demand  
+- **44% week-over-week growth** in GMV  
+- **4% weekly growth** in active providers  
+- **100% solo-built** from concept to deployment
 
-**🚀 Current Focus:** Scaling to 500+ providers before Google Play launch (Jan 01)
-
+### 🌍 Ecosystems Features
+- 📱 **Uber-like UX** with smart recommendations  
+- 👩‍🔧 **Provider autonomy** on pricing & schedules  
+- 💸 **Instant PIX withdrawals** (<24h)  
+- 🔐 **KYC** with facial recognition  
+- 🤝 **Two-way rating system**  
+- 🧠 **AI-powered ranking engine**
 ## <img src="https://drive.google.com/uc?id=1L6sWJ3hgcewh389MvYfGGl5Wn03KSZi_" alt="Settings Icon" width="30" align="center"> Technical Expertise
 
 ### **🚀 Core Stack**

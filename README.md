@@ -4,9 +4,8 @@
  <h3><img src="https://res.cloudinary.com/limpeja/image/upload/v1769477292/image-removebg-preview_2_ptcc01.png" alt="Brain Icon" width="65" align="center"> Shipping end-to-end products from concept to scalable production with real users</h3>
 </div>
 
-<br>
 
-<div align="center">
+<div>
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=py,go,ts,js,react,nextjs,nestjs,fastapi,nodejs,tailwind,docker,kubernetes,aws,azure,gcp,postgresql,redis,mongodb,tensorflow,pytorch,opencv,git,github,figma&perline=12" alt="Tech Stack" />
   </a>

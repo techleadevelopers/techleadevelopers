@@ -4,7 +4,7 @@
  <h3><img src="https://res.cloudinary.com/limpeja/image/upload/v1769477292/image-removebg-preview_2_ptcc01.png" alt="Brain Icon" width="65" align="center"> Shipping end-to-end products from concept to scalable production with real users </h3>
 </div>
 
-## 🧱 Production Systems
+## Production Systems
 
 ### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="40" align="center"> **LimpeJá Marketplace** - *Founder & Full Stack Developer*
 > Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**

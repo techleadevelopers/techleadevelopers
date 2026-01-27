@@ -49,25 +49,6 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/paulosilas/paulosilas/main/brain-icon.png" alt="Brain Icon" width="30" align="center"> Technical Expertise
-
-### **🚀 Core Stack**
-- **Languages:** Python • TypeScript • Go • SQL
-- **Frontend:** React • Next.js • React Native • Tailwind CSS
-- **Backend:** NestJS • FastAPI • Node.js • Spring
-- **Databases:** PostgreSQL • MongoDB • Redis • Elasticsearch
-
-### **☁️ DevOps & Cloud**
-- **Infrastructure:** AWS • GCP • Docker • Kubernetes • Terraform
-- **Monitoring:** Grafana • Prometheus • ELK Stack
-- **CI/CD:** GitHub Actions • GitLab CI • Jenkins
-
-### **🧠 AI/ML Engineering**
-- **Frameworks:** TensorFlow • PyTorch • OpenCV • Scikit-learn
-- **Specialties:** Computer Vision • NLP • Recommendation Systems
-- **MLOps:** Model deployment • A/B testing • Performance monitoring
-
-<br>
 
 ## 💼 Currently Building
 - 🔧 **Scaling LimpeJá** to handle 10,000+ daily transactions

@@ -21,28 +21,11 @@
 ### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="40" align="center"> **LimpeJá Marketplace** - *Founder & Full Stack Developer*
 > Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**
 
-| 📈 Key Metrics | 🌍 Ecosystems Features |
-|:---------------|:----------------------|
+| 📈 **Key Metrics** | 🌍 **Ecosystems Features** |
+|:-------------------|:---------------------------|
 | • **64% match rate** between supply/demand<br>• **44% week-over-week growth** in GMV<br>• **4% weekly growth** in active providers<br>• **100% solo-built** from concept to deployment | • 📱 **Uber-like UX** with smart recommendations<br>• 👩‍🔧 **Provider autonomy** on pricing & schedules<br>• 💸 **Instant PIX withdrawals** (<24h)<br>• 🔐 **KYC** with facial recognition<br>• 🤝 **Two-way rating system**<br>• 🧠 **AI-powered ranking engine** |
 
-</div>
-</div>
-
 **🚀 Current Focus:** Scaling to 500+ providers before Google Play launch (Jan 01)
-
-<br>
-
-### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="40" align="center"> **Bilingui-AI** - *Full Stack & Local AI Engineer*
-> Language learning platform with offline AI models
-
-<ul>
-  <li><b>Tech:</b> React Native • FastAPI • Whisper • Mistral • SQLite</li>
-  <li><b>Innovation:</b> 100% offline AI processing for speech recognition</li>
-  <li><b>Performance:</b> 75% faster inference vs cloud alternatives</li>
-  <li><b>UX:</b> Gamified learning with real-time feedback</li>
-</ul>
-
-<br>
 
 ## <img src="https://drive.google.com/uc?id=1L6sWJ3hgcewh389MvYfGGl5Wn03KSZi_" alt="Settings Icon" width="30" align="center"> Technical Expertise
 

@@ -80,16 +80,6 @@
 
 <br>
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <a href="https://github.com/techleadevelopers">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=techleadevelopers&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techleadevelopers&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-  </a>
-</div>
-
-<br>
 
 ## 🎯 Currently Building
 
@@ -105,10 +95,7 @@
 ## 🤝 Let's Connect
 
 <ul>
-  <li>📧 <b>Email:</b> paulo@email.com</li>
-  <li>💼 <b>LinkedIn:</b> linkedin.com/in/paulosilascampos</li>
-  <li>🌐 <b>Portfolio:</b> paulocampos.dev (coming soon)</li>
-  <li>🐦 <b>Twitter/X:</b> @paulotechlead</li>
+<p>I'm really into open-source and always excited about new challenges. Feel free to check out my projects, suggest improvements, or reach out if you want to collaborate.</p>
 </ul>
 
 <div align="center">

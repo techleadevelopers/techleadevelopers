@@ -21,22 +21,30 @@
 ### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="40" align="center"> **LimpeJá Marketplace** - *Founder & Full Stack Developer*
 > Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**
 
+<table>
+<tr>
+<td width="50%">
+
 **📈 Key Metrics:**
 - **64% match rate** between supply/demand
 - **44% week-over-week growth** in GMV
 - **4% weekly growth** in active providers
 - **100% solo-built** from concept to deployment
 
+</td>
+<td width="50%">
 
 **🌍 Ecosystems Features:**
-<ul>
-  <li>📱 <b>Clean and intuitive UX (Uber-like)</b>: ultra-fast flow with smart recommendations & in-app chat</li>
-  <li>👩‍🔧 <b>Empowerment for providers</b>: complete autonomy on pricing, schedules & professional dashboards</li>
-  <li>💸 <b>Financial transparency</b>: real-time earnings dashboard & instant PIX withdrawals (<24h)</li>
-  <li>🔐 <b>Security-first KYC</b>: OCR + facial recognition + background checks + LGPD compliance</li>
-  <li>🤝 <b>Reputation system</b>: two-way ratings, badges & local ranking boards</li>
-  <li>🧠 <b>Smart ranking engine</b>: blends rating, distance, acceptance rate & response time</li>
-</ul> 
+- 📱 **Uber-like UX** with smart recommendations
+- 👩‍🔧 **Provider autonomy** on pricing & schedules
+- 💸 **Instant PIX withdrawals** (<24h)
+- 🔐 **KYC** with facial recognition
+- 🤝 **Two-way rating system**
+- 🧠 **AI-powered ranking engine**
+
+</td>
+</tr>
+</table>
 
 **🚀 Current Focus:** Scaling to 500+ providers before Google Play launch (Jan 01)
 

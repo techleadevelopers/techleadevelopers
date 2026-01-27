@@ -7,8 +7,9 @@
 ## Production Systems
 
 ### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="40" align="center"> **LimpeJá Marketplace** - *Founder & Full Stack Developer*
- Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**
+ >Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**
 
+<br>
 **🌍 Ecosystems Features:**
 <ul>
   <li>📱 <b>Clean and intuitive UX (Uber-like)</b>: Ultra-fast booking flow with smart recommendations & in-app chat</li>

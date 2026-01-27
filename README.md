@@ -30,7 +30,7 @@
 
 **🌍 Ecosystems Features:**
 <ul>
- <li>📱 <b>Clean and intuitive UX (Uber-like)</b>: ultra-fast flow with smart recommendations & in-app chat</li>
+  <li>📱 <b>Clean and intuitive UX (Uber-like)</b>: ultra-fast flow with smart recommendations & in-app chat</li>
   <li>👩‍🔧 <b>Empowerment for providers</b>: complete autonomy on pricing, schedules & professional dashboards</li>
   <li>💸 <b>Financial transparency</b>: real-time earnings dashboard & instant PIX withdrawals (<24h)</li>
   <li>🔐 <b>Security-first KYC</b>: OCR + facial recognition + background checks + LGPD compliance</li>

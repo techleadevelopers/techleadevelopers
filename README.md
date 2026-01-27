@@ -28,7 +28,7 @@
 - **100% solo-built** from concept to deployment
 
 
-** 🌍 Ecosystems Features:**
+**🌍 Ecosystems Features:**
 <ul>
 <li>📱 <b>Clean and intuitive UX (Uber-like)</b>: ultra-fast flow from splash → login → signup → personalized home → booking → PIX payment. Includes smart recommendations, cancellation policies, and in-app chat for seamless communication.</li>
         <li>👩‍🔧 <b>Empowerment for providers</b>: complete autonomy to set prices, choose services, and manage schedules. Verified onboarding with document upload + facial recognition. Providers gain professional dashboards with history, earnings summary, and withdrawal requests -- elevating the experience to "driver-of-app" status.</li>

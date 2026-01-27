@@ -4,13 +4,6 @@
  <h3><img src="https://res.cloudinary.com/limpeja/image/upload/v1769477292/image-removebg-preview_2_ptcc01.png" alt="Brain Icon" width="65" align="center"> Shipping end-to-end products from concept to scalable production with real users</h3>
 </div>
 
-
-<div align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,go,ts,js,react,nextjs,nestjs,fastapi,nodejs,tailwind,docker,kubernetes,aws,azure,gcp,postgresql,redis,mongodb,tensorflow,pytorch,opencv,git,github,figma&perline=12" alt="Tech Stack" />
-  </a>
-</div>
-
 <br>
 
 ##  Production Systems
@@ -65,3 +58,5 @@ I'm really into open-source and always excited about new challenges. Feel free t
 <div align="center">
   <p><i>Open to: Senior Engineering Roles • Technical Leadership • Startup Advisory</i></p>
 </div>
+
+<img src="https://skillicons.dev/icons?i=py,go,rust,cpp,ts,js,html,css,latex,ai,fastapi,nodejs,spring,react,nextjs,svelte,tailwind,tauri,vite,electron,npm,figma,obsidian,aws,azure,gcp,terraform,docker,kubernetes,nginx,linux,arch,bsd,bash,sqlite,postgresql,dynamodb,cassandra,mongodb,elasticsearch,redis,graphql,kafka,rabbitmq,tensorflow,opencv,pytorch,grafana,prometheus,github,gitlab,git,vscode,md&perline=18" alt="Cre4T3Tiv3 skill icons" />

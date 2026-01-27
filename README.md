@@ -10,6 +10,7 @@
  >Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**
 
 <br>
+
 **🌍 Ecosystems Features:**
 <ul>
   <li>📱 <b>Clean and intuitive UX (Uber-like)</b>: Ultra-fast booking flow with smart recommendations & in-app chat</li>

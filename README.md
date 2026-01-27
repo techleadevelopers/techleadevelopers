@@ -1,7 +1,6 @@
-<div align="center">
-  <h1>👋 Hi there, I'm Paulo Silas de Campos!</h1>
+<div>
+  <h1> Hi there, I'm Paulo Silas de Campos!</h1><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand" width="40" />
   <p>
-    <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand" width="40" />
   </p>
   <h3>🚀 Full Stack & AI/ML Engineer | Marketplace Specialist</h3>
   <p>Building scalable applications that solve real problems with data & intelligence</p>
@@ -9,7 +8,7 @@
 
 <br>
 
-<div align="center">
+<div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,go,ts,js,react,nextjs,nestjs,fastapi,nodejs,tailwind,docker,kubernetes,aws,azure,gcp,postgresql,redis,mongodb,tensorflow,pytorch,opencv,git,github,figma&perline=12" alt="Tech Stack" />
   </a>
@@ -17,7 +16,7 @@
 
 <br>
 
-## 🎯 Featured Projects
+## <img src="https://drive.google.com/uc?id=1L6sWJ3hgcewh389MvYfGGl5Wn03KSZi_" alt="Settings Icon" width="33" align="center"> Production Systems
 
 ### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="40" align="center"> **LimpeJá Marketplace** - *Founder & Full Stack Developer*
 > Uber-like platform for cleaning services | **91 providers** | **51 active clients** | **R$ 42,850+ GMV**
@@ -37,14 +36,20 @@
 </ul>
 
 **✨ Key Features:**
+**✨ Key Features:**
+
 <ul>
-  <li>✅ <b>Real-time geolocation matching</b> with PostGIS optimization</li>
-  <li>✅ <b>PIX payments & instant withdrawals</b> (<24h processing)</li>
-  <li>✅ <b>Smart provider ranking</b> (rating × distance × acceptance rate)</li>
-  <li>✅ <b>Full KYC flow</b> with OCR + facial recognition + background checks</li>
-  <li>✅ <b>Microservices architecture</b> with WebSocket notifications</li>
-  <li>✅ <b>Admin dashboard</b> with real-time KPIs and fraud detection</li>
-</ul>
+  <li>📱 Uber-like UX with PIX payments</li>
+  <li>👩‍🔧 Provider autonomy & dashboards</li>
+  <li>💸 Instant withdrawals (<24h)</li>
+  <li>🔐 KYC with facial recognition</li>
+  <li>🤝 Two-way rating system</li>
+  <li>🧠 AI-powered matching engine</li>
+  <li>🎯 Gamified missions</li>
+  <li>📍 PostGIS geolocation</li>
+  <li>⚡ Microservices architecture</li>
+  <li>📊 Real-time admin dashboard</li>
+</ul> 
 
 **🚀 Current Focus:** Scaling to 500+ providers before Google Play launch (Jan 01)
 

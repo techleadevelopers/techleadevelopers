@@ -9,7 +9,7 @@
 ### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="40" align="center"> **LimpeJá Marketplace** - *Founder & Full Stack Developer*
 > Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**
 
-<h3><img src="https://res.cloudinary.com/limpeja/image/upload/v1769479399/image-removebg-preview_3_bvmeea.png" alt="Brain Icon" width="35" align="center">: https://apps.apple.com/pt/app/limpej%C3%A1-diaristas-verificadas/id6753289673</h3>
+<p><img src="https://res.cloudinary.com/limpeja/image/upload/v1769479399/image-removebg-preview_3_bvmeea.png" alt="Brain Icon" width="45" align="center">: https://apps.apple.com/pt/app/limpej%C3%A1-diaristas-verificadas/id6753289673</p>
 **🌍 Ecosystems Features:**
 <ul>
   <li>📱 <b>Clean and intuitive UX (Uber-like)</b>: Ultra-fast booking flow with smart recommendations & in-app chat</li>

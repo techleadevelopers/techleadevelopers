@@ -1,6 +1,6 @@
 <div>
   <h1> Hi there, I'm Paulo Silas de Campos! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand" width="40" /></h1>
-  <h3><img src="https://res.cloudinary.com/limpeja/image/upload/v1769476318/image-removebg-preview_1_aepwj4.png" alt="Brain Icon" width="35" align="center"> Software Engineer • AI/ML • Production Systems</h3>
+  <h3><img src="https://res.cloudinary.com/limpeja/image/upload/v1769476318/image-removebg-preview_1_aepwj4.png" alt="Brain Icon" width="55" align="center"> Software Engineer • AI/ML • Production Systems</h3>
   <p>Shipping end-to-end products from concept to scalable production with real users</p>
 </div>
 
@@ -19,19 +19,29 @@
 ### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="40" align="center"> **LimpeJá Marketplace** - *Founder & Full Stack Developer*
 > Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**
 
-**📈 Key Metrics:**
-- **64% match rate** between supply/demand
-- **44% week-over-week growth** in GMV
-- **4% weekly growth** in active providers
-- **100% solo-built** from concept to deployment
-
 **🌍 Ecosystems Features:**
-* 📱 **Clean and intuitive UX (Uber-like)**: ultra-fast flow with smart recommendations & in-app chat
-* 👩‍🔧 **Empowerment for providers**: complete autonomy on pricing, schedules & professional dashboards
-* 💸 **Financial transparency**: real-time earnings dashboard & instant PIX withdrawals (<24h)
-* 🔐 **Security-first KYC**: OCR + facial recognition + background checks + LGPD compliance
-* 🤝 **Reputation system**: two-way ratings, badges & local ranking boards
-* 🧠 **Smart ranking engine**: blends rating, distance, acceptance rate & response time
+<ul>
+  <li>📱 <b>Clean and intuitive UX (Uber-like)</b>: Ultra-fast booking flow with smart recommendations & in-app chat</li>
+  <li>👩‍🔧 <b>Empowerment for providers</b>: Autonomy on pricing/scheduling with professional dashboards</li>
+  <li>💸 <b>Financial transparency</b>: Real-time earnings & instant PIX withdrawals (<24h)</li>
+  <li>🔐 <b>Security-first KYC</b>: OCR + facial recognition + background checks with LGPD compliance</li>
+  <li>🤝 <b>Reputation system</b>: Two-way ratings with badges & local ranking boards</li>
+  <li>📊 <b>Growth mechanics</b>: Referral program, coupons, subscriptions & B2B2C partnerships</li>
+  <li>🧠 <b>Smart ranking engine</b>: Blends rating, distance, acceptance rate & response time</li>
+  <li>🎯 <b>Missions & rewards</b>: Gamified missions with claimable rewards</li>
+  <li>💵 <b>PIX payments & withdrawals</b>: Backend-issued PIX charges & instant provider payouts</li>
+  <li>📈 <b>Provider metrics</b>: Acceptance rate & response time tracking</li>
+  <li>⚡ <b>Dispute resolution</b>: Built-in mediation flow between clients & providers</li>
+  <li>🗂️ <b>Service catalog</b>: Flexible setup for one-off services & packages</li>
+  <li>🛠️ <b>Admin dashboard</b>: Real-time KPIs, fraud alerts & financial monitoring</li>
+  <li>📍 <b>Geolocation matching</b>: PostGIS-powered search for nearby providers</li>
+  <li>🔔 <b>Real-time notifications</b>: WebSocket updates for all platform events</li>
+  <li>🏗️ <b>Scalable architecture</b>: NestJS microservices with Redis, BullMQ & Docker/K8s</li>
+  <li>🆘 <b>Safety alerts</b>: Panic flow endpoints for rapid assistance</li>
+  <li>🧲 <b>Referrals & loyalty</b>: Tracked referrals with loyalty points & mission triggers</li>
+  <li>🎟️ <b>Reviews analytics</b>: Rating breakdown with AI-suggested responses</li>
+  <li>🛟 <b>Support system</b>: Full ticketing system with SLA tracking</li>
+</ul>
 
 **🚀 Current Focus:** Scaling to 500+ providers before Google Play launch (Jan 01)
 

@@ -1,12 +1,12 @@
-<div align="center">
+<div>
   <h1> Hi there, I'm Paulo Silas de Campos! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand" width="40" /></h1>
-  <h3>💼 Software Engineer • AI/ML • Production Systems</h3>
+  <h3><img src="https://res.cloudinary.com/limpeja/image/upload/v1769476318/image-removebg-preview_1_aepwj4.png" alt="Brain Icon" width="35" align="center"> Software Engineer • AI/ML • Production Systems</h3>
   <p>Shipping end-to-end products from concept to scalable production with real users</p>
 </div>
 
 <br>
 
-<div align="center">
+<div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,go,ts,js,react,nextjs,nestjs,fastapi,nodejs,tailwind,docker,kubernetes,aws,azure,gcp,postgresql,redis,mongodb,tensorflow,pytorch,opencv,git,github,figma&perline=12" alt="Tech Stack" />
   </a>
@@ -14,7 +14,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/paulosilas/paulosilas/main/brain-icon.png" alt="Brain Icon" width="35" align="center"> Production Systems
+## 💼 Production Systems
 
 ### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="40" align="center"> **LimpeJá Marketplace** - *Founder & Full Stack Developer*
 > Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**

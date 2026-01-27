@@ -20,7 +20,7 @@
 > Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**
 
 **🌍 Ecosystems Features:**
-
+<ul>
   <li>📱 <b>Clean and intuitive UX (Uber-like)</b>: Ultra-fast booking flow with smart recommendations & in-app chat</li>
   <li>👩‍🔧 <b>Empowerment for providers</b>: Autonomy on pricing/scheduling with professional dashboards</li>
   <li>💸 <b>Financial transparency</b>: Real-time earnings & instant PIX withdrawals (<24h)</li>
@@ -34,7 +34,7 @@
   <li>⚡ <b>Dispute resolution</b>: Built-in mediation flow between clients & providers</li>
   <li>🗂️ <b>Service catalog</b>: Flexible setup for one-off services & packages</li>
   <li>🛠️ <b>Admin dashboard</b>: Real-time KPIs, fraud alerts & financial monitoring</li>
-
+</ul>
 **Current Focus:** Scaling to 500+ providers before Google Play launch (Jan 01)
 
 <br>

@@ -6,7 +6,7 @@
 
 <br>
 
-<div align="center">
+<div left=30px>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,go,ts,js,react,nextjs,nestjs,fastapi,nodejs,tailwind,docker,kubernetes,aws,azure,gcp,postgresql,redis,mongodb,tensorflow,pytorch,opencv,git,github,figma&perline=12" alt="Tech Stack" />
   </a>

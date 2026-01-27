@@ -35,7 +35,7 @@
   <li>🗂️ <b>Service catalog</b>: Flexible setup for one-off services & packages</li>
   <li>🛠️ <b>Admin dashboard</b>: Real-time KPIs, fraud alerts & financial monitoring</li>
 </ul>
-    **Current Focus: Scaling to 500+ providers before Google Play launch (Jan 01)**
+   🤝 Current Focus: Scaling to 500+ providers before Google Play launch (Jan 01)
 <br>
 
 ### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="40" align="center"> **Bilingui-AI** - *Full Stack & Local AI Engineer*

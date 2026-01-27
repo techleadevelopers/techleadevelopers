@@ -16,7 +16,7 @@
 
 <br>
 
-## <img src="https://drive.google.com/uc?id=1L6sWJ3hgcewh389MvYfGGl5Wn03KSZi_" alt="Settings Icon" width="33" align="center"> Production Systems
+## <img src="https://res.cloudinary.com/limpeja/image/upload/v1769474692/image-removebg-preview_bxcrwh.png" alt="Settings Icon" width="33" align="center"> Production Systems
 
 ### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="40" align="center"> **LimpeJá Marketplace** - *Founder & Full Stack Developer*
 > Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**

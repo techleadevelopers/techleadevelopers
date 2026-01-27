@@ -32,7 +32,7 @@
 - **100% solo-built** from concept to deployment
 
 </td>
-<td width="50%">
+<td width="90%">
 
 **🌍 Ecosystems Features:**
 - 📱 **Uber-like UX** with smart recommendations

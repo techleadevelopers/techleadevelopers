@@ -39,7 +39,7 @@
 <br>
 
 
-## 💼 Currently Building
+##  Currently Building
 - 🔧 **Scaling LimpeJá** to handle 10,000+ daily transactions
 - 🧠 **AI-powered matching engine** to increase match rate to 75%+
 - 📱 **Apple Store launch** (Jan 01) with enhanced UX/UI

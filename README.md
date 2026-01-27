@@ -21,25 +21,9 @@
 ### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="40" align="center"> **LimpeJá Marketplace** - *Founder & Full Stack Developer*
 > Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; margin: 20px 0;">
-<div style="flex: 1; min-width: 300px; background: #0f172a; padding: 20px; border-radius: 10px; border-left: 4px solid #22d3ee;">
-
-**📈 Key Metrics**
-- **64% match rate** between supply/demand  
-- **44% week-over-week growth** in GMV  
-- **4% weekly growth** in active providers  
-- **100% solo-built** from concept to deployment
-
-</div>
-<div style="flex: 1; min-width: 300px; background: #0f172a; padding: 20px; border-radius: 10px; border-left: 4px solid #10b981;">
-
-**🌍 Core Features**
-- 📱 **Uber-like UX** with smart recommendations
-- 👩‍🔧 **Provider autonomy** on pricing & schedules  
-- 💸 **Instant PIX withdrawals** (<24h)
-- 🔐 **KYC** with facial recognition
-- 🤝 **Two-way rating system**
-- 🧠 **AI-powered ranking engine**
+| 📈 Key Metrics | 🌍 Ecosystems Features |
+|:---------------|:----------------------|
+| • **64% match rate** between supply/demand<br>• **44% week-over-week growth** in GMV<br>• **4% weekly growth** in active providers<br>• **100% solo-built** from concept to deployment | • 📱 **Uber-like UX** with smart recommendations<br>• 👩‍🔧 **Provider autonomy** on pricing & schedules<br>• 💸 **Instant PIX withdrawals** (<24h)<br>• 🔐 **KYC** with facial recognition<br>• 🤝 **Two-way rating system**<br>• 🧠 **AI-powered ranking engine** |
 
 </div>
 </div>

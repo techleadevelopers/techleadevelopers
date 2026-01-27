@@ -20,7 +20,7 @@
   <li>🗂️ <b>Service catalog</b>: Flexible setup for one-off services & packages</li>
   <li>🛠️ <b>Admin dashboard</b>: Real-time KPIs, fraud alerts & financial monitoring</li>
 </ul>
-   🤝 Current Focus: Scaling to 500+ providers before Google Play launch (Fev 10)
+   💙 Current Focus: Scaling to 500+ providers before Google Play launch (Fev 10)
     
 <br>
 

@@ -13,14 +13,8 @@
 **🌍 Ecosystems Features:**
 <ul>
   <li>📱 <b>Clean and intuitive UX (Uber-like)</b>: Ultra-fast booking flow with smart recommendations & in-app chat</li>
-  <li>👩‍🔧 <b>Empowerment for providers</b>: Autonomy on pricing/scheduling with professional dashboards</li>
   <li>💸 <b>Financial transparency</b>: Real-time earnings & instant PIX withdrawals (<24h)</li>
   <li>🔐 <b>Security-first KYC</b>: OCR + facial recognition + background checks with LGPD compliance</li>
-  <li>🤝 <b>Reputation system</b>: Two-way ratings with badges & local ranking boards</li>
-  <li>📊 <b>Growth mechanics</b>: Referral program, coupons, subscriptions & B2B2C partnerships</li>
-  <li>🧠 <b>Smart ranking engine</b>: Blends rating, distance, acceptance rate & response time</li>
-  <li>🎯 <b>Missions & rewards</b>: Gamified missions with claimable rewards</li>
-  <li>💵 <b>PIX payments & withdrawals</b>: Backend-issued PIX charges & instant provider payouts</li>
   <li>📈 <b>Provider metrics</b>: Acceptance rate & response time tracking</li>
   <li>⚡ <b>Dispute resolution</b>: Built-in mediation flow between clients & providers</li>
   <li>🗂️ <b>Service catalog</b>: Flexible setup for one-off services & packages</li>

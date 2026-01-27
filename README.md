@@ -39,8 +39,8 @@
     
 <br>
 
-<ul></ul>
 
+<div></div>
 ### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="40" align="center"> **Bilingui-AI** - *Full Stack & Local AI Engineer*
 > Language learning platform with offline AI models
 

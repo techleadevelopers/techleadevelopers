@@ -1,9 +1,9 @@
 <div>
-  <h1> Hi there, I'm Paulo Silas de Campos!<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand" width="40" /></h1>
+  <h1> Hi there, I'm Paulo Silas de Campos! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand" width="40" /></h1>
   <p>
   </p>
-  <h3> Software Engineer • AI/ML • Production Systems</h3>
-  <p>Shipping end-to-end products from concept to scalable production with real users</p>
+  <h3>💼 Software Engineer • AI/ML • Production Systems</h3>
+  <p>🤝 Shipping end-to-end products from concept to scalable production with real users</p>
 </div>
 
 <br>
@@ -30,16 +30,12 @@
 
 **🌍 Ecosystems Features:**
 <ul>
-<li>📱 <b>Clean and intuitive UX (Uber-like)</b>: ultra-fast flow from splash → login → signup → personalized home → booking → PIX payment. Includes smart recommendations, cancellation policies, and in-app chat for seamless communication.</li>
-        <li>👩‍🔧 <b>Empowerment for providers</b>: complete autonomy to set prices, choose services, and manage schedules. Verified onboarding with document upload + facial recognition. Providers gain professional dashboards with history, earnings summary, and withdrawal requests -- elevating the experience to "driver-of-app" status.</li>
-        <li>💸 <b>Financial transparency</b>: real-time earnings dashboard, upcoming jobs, and reviews. Instant PIX withdrawals (&lt;24h) eliminate the #1 pain in the informal sector: uncertainty of payment. Dynamic pricing and surge incentives help fill idle hours and increase income.</li>
-        <li>🔐 <b>Security-first</b>: robust KYC (OCR + selfie + background check), device fingerprinting, and fraud prevention for coupons. LGPD compliance highlighted in onboarding for client trust. Optional service guarantee/insurance with simplified claims process directly in-app.</li>
-        <li>🤝 <b>Reputation system</b>: two-way ratings (client ↔ provider), badges like "Top of the neighborhood" and "100 services 5⭐", plus local ranking boards to reward consistency and quality. This builds community-driven trust.</li>
-        <li>📊 <b>Growth mechanics</b>: referral program with attractive credit, first-service coupons, recurring bookings with discounts, and subscription plans that include insurance and priority scheduling. Marketing playbook includes hyperlocal influencers, SEO (Google My Business), and B2B2C partnerships (condos, real estate managers, beauty salons, churches).</li>
-        <li>🚀 <b>Smart ranking engine</b>: ordered provider lists that blend rating, completed bookings, 5★ share, review recency, distance, <i>acceptanceRate</i> and <i>averageResponseTime</i>. </li>
-        <li>🎯 <b>Missions & rewards (gamified)</b>: event-driven missions (COUNT_EVENT, STREAK_DAYS, WITHIN_WINDOW) with claimable rewards (coupons or loyalty points) — including provider-focused goals like “10 jobs in a month”. Idempotent progress tracking & safe claiming. :contentReference[oaicite:1]{index=1}</li>
-        <li>💵 <b>PIX payments & instant withdrawals</b>: backend-issued PIX charge (BR Code/QR) and provider withdrawals, surfaced in booking success and earnings flows.</li>
-        <li>📈 <b>Provider performance metrics</b>: <i>acceptanceRate</i> & <i>averageResponseTime</i> exposed in profile/dashboard and used by ranking & discovery. </li>
+ <li>📱 <b>Clean and intuitive UX (Uber-like)</b>: ultra-fast flow with smart recommendations & in-app chat</li>
+  <li>👩‍🔧 <b>Empowerment for providers</b>: complete autonomy on pricing, schedules & professional dashboards</li>
+  <li>💸 <b>Financial transparency</b>: real-time earnings dashboard & instant PIX withdrawals (<24h)</li>
+  <li>🔐 <b>Security-first KYC</b>: OCR + facial recognition + background checks + LGPD compliance</li>
+  <li>🤝 <b>Reputation system</b>: two-way ratings, badges & local ranking boards</li>
+  <li>🧠 <b>Smart ranking engine</b>: blends rating, distance, acceptance rate & response time</li>
 </ul> 
 
 **🚀 Current Focus:** Scaling to 500+ providers before Google Play launch (Jan 01)

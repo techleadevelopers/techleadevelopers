@@ -1,6 +1,6 @@
 <div>
   <h1> Hi there, I'm Paulo Silas de Campos! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand" width="40" /></h1>
-  <h3> 💻 Software Engineer • AI/ML • Production Systems</h3>
+  <p>I am a highly motivated <b>Full Stack and AI/ML Engineer</b> focused on building scalable and intelligent applications that really work. I enjoy tackling complex challenges and turning them into smart solutions, using modern development and cutting-edge machine learning.</p>
   <p>Shipping end-to-end products from concept to scalable production with real users</p>
 </div>
 

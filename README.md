@@ -1,5 +1,5 @@
 <div>
-  <h1> Hi there, I'm Paulo Silas de Campos!</h1><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand" width="40" />
+  <h1> Hi there, I'm Paulo Silas de Campos!<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand" width="40" /></h1>
   <p>
   </p>
   <h3>🚀 Full Stack & AI/ML Engineer | Marketplace Specialist</h3>

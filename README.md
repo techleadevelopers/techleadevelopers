@@ -16,9 +16,7 @@
   <li>💸 <b>Financial transparency</b>: Real-time earnings & instant PIX withdrawals (<24h)</li>
   <li>🔐 <b>Security-first KYC</b>: OCR + facial recognition + background checks with LGPD compliance</li>
   <li>📈 <b>Provider metrics</b>: Acceptance rate & response time tracking</li>
-  <li>⚡ <b>Dispute resolution</b>: Built-in mediation flow between clients & providers</li>
   <li>🗂️ <b>Service catalog</b>: Flexible setup for one-off services & packages</li>
-  <li>🛠️ <b>Admin dashboard</b>: Real-time KPIs, fraud alerts & financial monitoring</li>
 </ul>
    💎 - Current Focus: Scaling to 500+ providers before Google Play launch (Fev 10)
     
@@ -38,12 +36,6 @@
 
 <br>
 
-
-##  Currently Building
-- 🔧 **Scaling LimpeJá** to handle 10,000+ daily transactions
-- 🧠 **AI-powered matching engine** to increase match rate to 75%+
-- 📱 **Apple Store launch** (Jan 01) with enhanced UX/UI
-- ⚡ **Performance optimization** for 50% faster app loading
 
 <br>
 

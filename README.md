@@ -28,7 +28,7 @@
   <li> <b>Provider metrics</b>: Acceptance rate & response time tracking</li>
   <li> <b>Service catalog</b>: Flexible setup for one-off services & packages</li>
 </ul>
-    - Current Focus: Scaling to 500+ providers before Google Play launch (Fev 10)
+  
     
 
 

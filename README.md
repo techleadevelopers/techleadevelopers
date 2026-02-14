@@ -5,7 +5,17 @@
 </div>
 
 ## Production Systems
+### <img src="https://res.cloudinary.com/limpeja/image/upload/v1770993671/swap_1_mvctri.png" alt="swap Logo" width="40" align="center"> **Swappy** - *Founder & Principal Software Engineer*
+> Swap/Wallet corporate lets go buy and sell instans Cripto or Pix ↔ BRL com UX Instantânea 
 
+- **Infra:** Backend Node/Express + Postgres + TRON TRC20 HD signer (XPRV/XPUB) com HMAC, anti-replay e idempotência persistida.
+- **Off-ramp (USDT → PIX):** endereço TRON derivado por ordem, detecção on-chain, sweep para tesouraria, payout PagBank.
+- **On-ramp (PIX → USDT):** cobrança PIX, liquidação on-chain via signer HD, taxas configuráveis (`FEE_BPS/FEE_MIN_BRL`).
+- **Segurança:** allowlist de destinos/contratos, anti-replay (ts+nonce), signer isolado, webhooks com HMAC.
+- **UX:** front consome `/api/order` e `/api/buy` com SSE/polling; instruções claras de rede/fee (TRX para gas).
+
+
+  
 ### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="40" align="center"> **LimpeJá Marketplace** - *Founder & Principal Software Engineer*
  >Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**
 

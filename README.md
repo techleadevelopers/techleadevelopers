@@ -38,8 +38,7 @@
 - **Innovation:** 100% offline AI processing for speech recognition
 - **Performance:** 75% faster inference vs cloud alternatives
 - **UX:** Gamified learning with real-time feedback
-
-  Language learning platform with offline AI models
+- **Languege:** learning platform with offline AI models
 
 <br>
 

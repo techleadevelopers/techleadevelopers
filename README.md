@@ -9,7 +9,7 @@
 ### <img src="https://res.cloudinary.com/limpeja/image/upload/v1770993903/COIN_PAY_m6f31z.png" alt="swap Logo" width="60" align="center"> **Swappy Financial** - *Principal Software Engineer*
 > Swap/Wallet corporate lets you buy and sell Crypto or Pix instantly in BRL with Instant UX
 
-- **Web3 Engine:** Advanced HD Wallet management (TRC20) with hierarchical derivation and database-backed idempotency to prevent double-spending.
+- **Web3 Engine:** Advanced HD Wallet management (TRC20) with hierarchical idempotency to prevent double-spending.
 - **Instanst (USDT → PIX):** TRON address derived per order, on-chain detection, sweep to treasury, payout.
 - **Deliver (PIX → BTC/USDT):** PIX collection, on-chain settlement via HD signer, configurable fees.
 - **Security:** allowlist of destinations/contracts, anti-replay (ts+nonce), isolated signer, webhooks with HMAC.
@@ -22,11 +22,11 @@
 
 **🌍 Ecosystems Features:**
 <ul>
-  <li>📱 <b>Clean and intuitive UX (Uber-like)</b>: Ultra-fast booking flow with smart recommendations & in-app chat</li>
-  <li>💸 <b>Financial transparency</b>: Real-time earnings & instant PIX withdrawals (<24h)</li>
-  <li>🔐 <b>Security-first KYC</b>: OCR + facial recognition + background checks with LGPD compliance</li>
-  <li>📈 <b>Provider metrics</b>: Acceptance rate & response time tracking</li>
-  <li>🗂️ <b>Service catalog</b>: Flexible setup for one-off services & packages</li>
+  <li> <b>Clean and intuitive UX (Uber-like)</b>: Ultra-fast booking flow with smart recommendations & in-app chat</li>
+  <li> <b>Financial transparency</b>: Real-time earnings & instant PIX withdrawals (<24h)</li>
+  <li> <b>Security-first KYC</b>: OCR + facial recognition + background checks with LGPD compliance</li>
+  <li> <b>Provider metrics</b>: Acceptance rate & response time tracking</li>
+  <li> <b>Service catalog</b>: Flexible setup for one-off services & packages</li>
 </ul>
    💎 - Current Focus: Scaling to 500+ providers before Google Play launch (Fev 10)
     

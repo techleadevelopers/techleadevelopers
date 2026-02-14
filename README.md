@@ -31,9 +31,9 @@
 </ul>
    💎 - Current Focus: Scaling to 500+ providers before Google Play launch (Fev 10)
     
-<br>
 
-###
+
+<br>
 
 ### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="60" align="center"> **Bilingui-AI** - *Full Stack & Local AI Engineer*
 > Language learning platform with offline AI models

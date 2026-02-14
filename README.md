@@ -6,7 +6,7 @@
 
 ## Production Systems
 
-### <img src="https://res.cloudinary.com/limpeja/image/upload/v1770993903/COIN_PAY_m6f31z.png" alt="swap Logo" width="40" align="center"> **Swappy Financial** - *Founder & Principal Software Engineer*
+### <img src="https://res.cloudinary.com/limpeja/image/upload/v1770993903/COIN_PAY_m6f31z.png" alt="swap Logo" width="60" align="center"> **Swappy Financial** - *Principal Software Engineer*
 > Swap/Wallet corporate lets you buy and sell Crypto or Pix instantly in BRL with Instant UX
 
 - **Web3 Engine:** Advanced HD Wallet management (TRC20) with hierarchical derivation and database-backed idempotency to prevent double-spending.
@@ -16,7 +16,7 @@
 - **Real-time UX:** real effects Three.js provides users with clear network/fee instructions (TRX for gas).
 
   
-### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="40" align="center"> **LimpeJá Marketplace** - *Founder & Principal Software Engineer*
+### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="60" align="center"> **LimpeJá Marketplace** - *Principal Software Engineer*
  >Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**
 
 
@@ -34,7 +34,7 @@
 
 ###
 
-### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="40" align="center"> **Bilingui-AI** - *Full Stack & Local AI Engineer*
+### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="60" align="center"> **Bilingui-AI** - *Full Stack & Local AI Engineer*
 > Language learning platform with offline AI models
 
 - **Tech:** React Native • FastAPI • Whisper • Mistral • SQLite

@@ -6,15 +6,14 @@
 
 ## Production Systems
 
-### <img src="https://res.cloudinary.com/limpeja/image/upload/v1770993671/swap_1_mvctri.png" alt="swap Logo" width="40" align="center"> **Swappy** - *Founder & Principal Software Engineer*
-> Swap/Wallet corporate lets go buy and sell instans Cripto or Pix ↔ BRL com UX Instantânea 
+### <img src="https://res.cloudinary.com/limpeja/image/upload/v1770993903/COIN_PAY_m6f31z.png" alt="swap Logo" width="40" align="center"> **Swappy Financial** - *Founder & Principal Software Engineer*
+> Swap/Wallet corporate lets you buy and sell Crypto or Pix instantly in BRL with Instant UX
 
-- **Infra:** Backend Node/Express + Postgres + TRON TRC20 HD signer (XPRV/XPUB) com HMAC, anti-replay e idempotência persistida.
-- **Off-ramp (USDT → PIX):** endereço TRON derivado por ordem, detecção on-chain, sweep para tesouraria, payout PagBank.
-- **On-ramp (PIX → USDT):** cobrança PIX, liquidação on-chain via signer HD, taxas configuráveis (`FEE_BPS/FEE_MIN_BRL`).
-- **Segurança:** allowlist de destinos/contratos, anti-replay (ts+nonce), signer isolado, webhooks com HMAC.
-- **UX:** front consome `/api/order` e `/api/buy` com SSE/polling; instruções claras de rede/fee (TRX para gas).
-
+- **Web3 Engine:** Advanced HD Wallet management (TRC20) with hierarchical derivation and database-backed idempotency to prevent double-spending.
+- **Instanst (USDT → PIX):** TRON address derived per order, on-chain detection, sweep to treasury, PagBank payout.
+- **Deliver (PIX → BTC/USDT):** PIX collection, on-chain settlement via HD signer, configurable fees.
+- **Security:** allowlist of destinations/contracts, anti-replay (ts+nonce), isolated signer, webhooks with HMAC.
+- **Real-time UX:** real effects Three.js provides users with clear network/fee instructions (TRX for gas).
 
   
 ### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="40" align="center"> **LimpeJá Marketplace** - *Founder & Principal Software Engineer*

@@ -42,7 +42,7 @@
 
 <br>
 
-## 🤝 Let's Connect
+### 🤝 Let's Connect
 I'm really into open-source and always excited about new challenges. Feel free to check out my projects, suggest improvements, or reach out if you want to collaborate.
 
 <div align="center">

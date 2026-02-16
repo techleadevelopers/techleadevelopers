@@ -6,7 +6,7 @@
 
 ## Production Systems
 
-###  <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="swap Logo" width="60" align="center"> **Swappy Financial** - *Principal Software Engineer*
+###  <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="swap Logo" width="80" align="center"> **Swappy Financial** - *Principal Software Engineer*
 > Swap/Wallet corporate lets you buy and sell Crypto or Pix instantly in BRL with Instant UX
 
 - **Web3 Engine:** Advanced HD Wallet management (TRC20) with hierarchical idempotency to prevent double-spending.

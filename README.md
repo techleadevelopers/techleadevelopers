@@ -7,35 +7,35 @@
 ## Core Engineering & Production Systems
 
 ### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="swap Logo" width="80" align="center"> **Swappy Financial** - *High-Throughput Web3 Architecture*
-> Plataforma corporativa de On/Off-ramp (Fiat <> Crypto) processando transações em tempo real.
+> Corporate On/Off-ramp platform (Fiat <> Crypto) processing real-time transactions.
 
-- **Distributed Architecture:** Engine de Web3 baseada em **Microserviços** com comunicação assíncrona para garantir consistência eventual em operações on-chain.
-- **Hierarchical Deterministic (HD) Wallets:** Implementação de gerenciamento de chaves (TRC20) via derivação de endereços, garantindo isolamento de fundos e idempotência hierárquica.
-- **Idempotency & Security:** Proteção contra *double-spending* e ataques de replay através de sistemas de `nonce` distribuído, `ts-validation` e webhooks com HMAC.
-- **Infrastructure:** Pipeline de **CI/CD** automatizado com **Terraform na Azure**, garantindo ambientes imutáveis e infraestrutura como código (IaC).
-- **Real-time UX:** Integração com Three.js para visualização de taxas de rede e instruções de gas (TRX) em tempo real.
+- **Distributed Architecture:** Built a Web3 engine based on **Microservices** with asynchronous communication to ensure eventual consistency in on-chain operations.
+- **Hierarchical Deterministic (HD) Wallets:** Implemented key management (TRC20) via address derivation, ensuring fund isolation and hierarchical idempotency.
+- **Idempotency & Security:** Double-spending and replay attack protection using distributed `nonce` systems, `ts-validation`, and HMAC-signed webhooks.
+- **Infrastructure:** Automated **CI/CD pipelines using Terraform on Azure**, ensuring immutable environments and Infrastructure as Code (IaC).
+- **Real-time UX:** Three.js integration for real-time visualization of network fees and gas instructions (TRX).
 
 ### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="60" align="center"> **LimpeJá Marketplace** - *Scalable Platform Engineering*
 > Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**
 
-- **Real-time Matching Engine:** Algoritmo de recomendação inteligente que processa geolocalização e disponibilidade em milissegundos para fluxo de agendamento ultra-rápido.
-- **FinOps & Payout System:** Arquitetura de pagamentos integrada com APIs de PIX, focada em transparência financeira e saques instantâneos (<24h).
-- **Identity & Compliance (KYC):** Pipeline de processamento de imagem com OCR + Facial Recognition integrado ao onboarding, garantindo conformidade com a LGPD.
-- **Observability:** Implementação de logs estruturados e monitoramento de métricas (SLIs/SLOs) como taxa de aceitação e tempo de resposta.
+- **Real-time Matching Engine:** Intelligent recommendation algorithm processing geolocation and availability in milliseconds for ultra-fast booking flows.
+- **FinOps & Payout System:** Payment architecture integrated with PIX APIs, focused on financial transparency and instant withdrawals (<24h).
+- **Identity & Compliance (KYC):** Image processing pipeline with OCR + Facial Recognition integrated into onboarding, ensuring LGPD (Data Privacy) compliance.
+- **Observability:** Implementation of structured logging and metrics monitoring (SLIs/SLOs) to track acceptance rates and response times.
 
 ### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="60" align="center"> **Bilingui-AI** - *Edge AI & Inference Optimization*
 > Language learning platform with offline AI models
 
-- **Edge Computing:** Migração de modelos de Cloud para **Local Inference (Whisper/Mistral)**, reduzindo custos de API em 100% e latência de inferência em 75%.
-- **High-Performance Backend:** API desenvolvida em **FastAPI** otimizada para streaming de áudio e processamento paralelo.
-- **Clean Architecture:** Organização de código focada em desacoplamento de modelos de IA e lógica de negócio, facilitando a troca de LLMs.
-- **UX:** Aprendizado gamificado com feedback em tempo real processado 100% offline.
+- **Edge Computing:** Migrated cloud models to **Local Inference (Whisper/Mistral)**, reducing API costs by 100% and inference latency by 75%.
+- **High-Performance Backend:** API developed with **FastAPI** optimized for audio streaming and parallel processing.
+- **Clean Architecture:** Decoupled AI models from business logic, allowing seamless LLM swapping and maintainability.
+- **UX:** Gamified learning experience with 100% offline real-time feedback processing.
 
 <br>
 
 ## 🛠️ Technical Stack & Expertise
 
-- **Infrastructure & DevOps:** Terraform (IaC), Azure (AKS), Docker, Kubernetes (K8S), Helm, GitHub Actions, Nginx, Linux (Arch/Arch), Bash.
+- **Infrastructure & DevOps:** Terraform (IaC), Azure (AKS), Docker, Kubernetes (K8S), Helm, GitHub Actions, Nginx, Linux (Arch), Bash.
 - **Architecture:** Microservices, Event-Driven, Hexagonal Architecture, REST/gRPC, Redis (Caching/Queue), RabbitMQ, Kafka.
 - **Languages & Frameworks:** Python (FastAPI/PyTorch/TensorFlow), TypeScript (NestJS/React/Next.js), Go, Rust, C++, Node.js, Spring.
 - **Database:** PostgreSQL, MongoDB, Redis, Pinecone (Vector DB), SQLite, DynamoDB, Cassandra, Elasticsearch.

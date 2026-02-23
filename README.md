@@ -4,7 +4,7 @@
   <h3> Shipping end-to-end products from concept to scalable production with real users </h3>
 </div>
 
-## 🏗️ Core Engineering & Production Systems
+## Core Engineering & Production Systems
 
 ### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="swap Logo" width="80" align="center"> **Swappy Financial** - *High-Throughput Web3 Architecture*
 > Plataforma corporativa de On/Off-ramp (Fiat <> Crypto) processando transações em tempo real.

@@ -6,7 +6,7 @@
 
 ## Core Engineering & Production Systems
 
-### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="swap Logo" width="80" align="center"> **Swappy Financial** - *High-Throughput Web3 Architecture*
+### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="swap Logo" width="60" align="center"> **Swappy Financial** - *High-Throughput Web3 Architecture*
 > Corporate On/Off-ramp platform (Fiat <> Crypto) processing real-time transactions.
 
 - **Distributed Architecture:** Built a Web3 engine based on **Microservices** with asynchronous communication to ensure eventual consistency in on-chain operations.
@@ -33,14 +33,14 @@
 
 <br>
 
-## 🛠️ Technical Stack & Expertise
+## Technical Stack & Expertise
 
 - **Infrastructure & DevOps:** Terraform (IaC), Azure (AKS), Docker, Kubernetes (K8S), Helm, GitHub Actions, Nginx, Linux (Arch), Bash.
 - **Architecture:** Microservices, Event-Driven, Hexagonal Architecture, REST/gRPC, Redis (Caching/Queue), RabbitMQ, Kafka.
 - **Languages & Frameworks:** Python (FastAPI/PyTorch/TensorFlow), TypeScript (NestJS/React/Next.js), Go, Rust, C++, Node.js, Spring.
 - **Database:** PostgreSQL, MongoDB, Redis, Pinecone (Vector DB), SQLite, DynamoDB, Cassandra, Elasticsearch.
 
-## 🧠 Architectural Philosophy
+##  Architectural Philosophy
 > I don't just write code, I design systems that scale. My priority is observability, resilience, and FinOps cost-effectiveness, ensuring that the infrastructure supports business growth without technical bottlenecks.
 
 <br>

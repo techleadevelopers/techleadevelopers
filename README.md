@@ -4,6 +4,16 @@
   <h3> Shipping end-to-end products from concept to scalable production with real users </h3>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Commits_2025-9.4k+-blue?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/Largest_Repo-4.5k_commits-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Shipping_Production-success?style=flat-square" />
+  <br>
+  <strong>📦 4,570 commits in limpe-ja-app • Last commit: 9 Feb 2026</strong>
+</div>
+
+<br>
+
 ## Core Engineering & Production Systems
 
 ### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="swap Logo" width="60" align="center"> **Swappy Financial** - *High-Throughput Web3 Architecture*
@@ -22,6 +32,7 @@
 - **FinOps & Payout System:** Payment architecture integrated with PIX APIs, focused on financial transparency and instant withdrawals (<24h).
 - **Identity & Compliance (KYC):** Image processing pipeline with OCR + Facial Recognition integrated into onboarding, ensuring LGPD (Data Privacy) compliance.
 - **Observability:** Implementation of structured logging and metrics monitoring (SLIs/SLOs) to track acceptance rates and response times.
+- **⚡ Refactoring journey:** This repository alone accumulated **4,570+ commits** during a zero-downtime migration from a legacy codebase with non-UTC timestamps and text-based scheduling to a clean architecture with full timezone compliance — while shipping new features in parallel.
 
 ### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="60" align="center"> **Bilingui-AI** - *Edge AI & Inference Optimization*
 > Language learning platform with offline AI models
@@ -40,8 +51,8 @@
 - **Languages & Frameworks:** Python (FastAPI/PyTorch/TensorFlow), TypeScript (NestJS/React/Next.js), Go, Rust, C++, Node.js, Spring.
 - **Database:** PostgreSQL, MongoDB, Redis, Pinecone (Vector DB), SQLite, DynamoDB, Cassandra, Elasticsearch.
 
-##  Architectural Philosophy
-> I don't just write code, I design systems that scale. My priority is observability, resilience, and FinOps cost-effectiveness, ensuring that the infrastructure supports business growth without technical bottlenecks.
+## Architectural Philosophy
+> I ship systems that evolve. My last year on GitHub: **9,445 commits** — not automated, each tied to a production evolution, refactoring, or new feature. I prioritize observability, resilience, and FinOps so that infrastructure scales without surprises.
 
 <br>
 

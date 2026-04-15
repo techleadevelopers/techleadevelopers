@@ -34,7 +34,7 @@ Enterprise-grade backend for mobile behavioral threat detection.
 - **Billing**: Freemium plans with rate limiting (Redis token bucket)  
 - **Infra**: Terraform on Azure (Container Apps, Postgres Flexible, Redis Cache)  
 
-### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="swap Logo" width="60" align="center"> **Swappy Financial** - *High-Throughput Web3 Architecture*
+### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="swap Logo" width="40" align="center"> **Swappy Financial** - *High-Throughput Web3 Architecture*
 > Corporate On/Off-ramp platform (Fiat <> Crypto) processing real-time transactions.
 
 - Distributed Web3 engine with async microservices (eventual consistency)  
@@ -44,7 +44,7 @@ Enterprise-grade backend for mobile behavioral threat detection.
 - Three.js real-time gas visualization  
 
 
-### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="60" align="center"> **LimpeJá Marketplace** - *Scalable Platform Engineering*
+### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="40" align="center"> **LimpeJá Marketplace** - *Scalable Platform Engineering*
 > Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**
 
 - Real-time matching engine (geolocation + availability — ms response)  
@@ -52,7 +52,7 @@ Enterprise-grade backend for mobile behavioral threat detection.
 - KYC pipeline: OCR + facial recognition (LGPD compliant)  
 - Zero-downtime migration: **4,570+ commits** from legacy to timezone-safe architecture  
 
-### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="60" align="center"> **Bilingui-AI** - *Edge AI & Inference Optimization*
+### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="40" align="center"> **Bilingui-AI** - *Edge AI & Inference Optimization*
 > Language learning platform with offline AI models
 
 - Edge inference: Whisper + Mistral local → **100% cost reduction / 75% latency improvement**  

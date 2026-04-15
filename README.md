@@ -25,7 +25,7 @@ Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, 
 
 <p>Shipping end-to-end products from concept to scale with real users.</p>
 
-###  BlockRemote — *Real-Time EDR for Mobile (Zero-Trust)*
+###  <img src="https://res.cloudinary.com/limpeja/image/upload/v1776215480/Gemini_Generated_Image_6jdfpq6jdfpq6jdf_sqmuwq.png" alt="swap Logo" width="40" align="center"> **BlockRemote** — *Real-Time EDR for Mobile (Zero-Trust)*
 Enterprise-grade backend for mobile behavioral threat detection.
 
 - **Threat Engine**: Sensor fusion (accelerometer, gyro, touch entropy) with adaptive thresholds  

@@ -5,7 +5,7 @@
   </h1>
 
   <p>
-    I'm a <b>Senior Distributed Systems & Security Engineer (Fintech/AI/EDR)</b>.
+    I'm a <b>Distributed Systems & Security Engineer (Fintech/AI/EDR)</b>.
     I build systems that <b>evolve in production</b> — from high-throughput Web3 to real-time threat neutralization.
   </p>
 

@@ -9,7 +9,6 @@
     I build systems that <b>evolve in production</b> — from high-throughput Web3 to real-time threat neutralization.
   </p>
 
-  <h3>🚀 Shipping end-to-end products from concept to scale — with real users, real attacks, real money.</h3>
 </div>
 
 ```text
@@ -25,7 +24,7 @@ Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, 
 
 ---
 
-## 🧠 Core Engineering & Production Systems
+<h3>🚀 Shipping end-to-end products from concept to scale — with real users, real attacks, real money.</h3>
 
 ### 🛡️ BlockRemote — *Real-Time EDR for Mobile (Zero-Trust)*
 Enterprise-grade backend for mobile behavioral threat detection.

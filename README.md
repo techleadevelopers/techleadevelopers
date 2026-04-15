@@ -12,11 +12,16 @@
   <h3>🚀 Shipping end-to-end products from concept to scale — with real users, real attacks, real money.</h3>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Commits_2025-9.4k+-blue?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/Largest_Repo-4.5k_commits-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Status-Shipping_Production-success?style=flat-square" />
-</div>
+```text
+Security/EDR:   Threat Detection, Kill-Switch, Anti-Replay, Zero-Trust, Sensor Fusion, Red Team
+Infra/DevOps:   Terraform, Azure/AWS/GCP, Kubernetes, Docker, Helm, GitHub Actions
+Architecture:   Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, RabbitMQ, Redis
+Languages:      Python, TypeScript, Rust, Node.Js, Java, Kotlin, React
+AI/ML:          PyTorch, TensorFlow, FastAPI, Whisper, LLMs (edge inference)
+Blockchain:     Web3, HD Wallets, Smart Contracts, MEV (Rust), EVM
+Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone
+```
+---
 
 ---
 
@@ -31,8 +36,8 @@ Enterprise-grade backend for mobile behavioral threat detection.
 - **Billing**: Freemium plans with rate limiting (Redis token bucket)  
 - **Infra**: Terraform on Azure (Container Apps, Postgres Flexible, Redis Cache)  
 
-### 💱 Swappy Financial — *High-Throughput Web3 Architecture*
-Corporate on/off-ramp (Fiat <> Crypto) processing real-time transactions.
+### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="swap Logo" width="60" align="center"> **Swappy Financial** - *High-Throughput Web3 Architecture*
+> Corporate On/Off-ramp platform (Fiat <> Crypto) processing real-time transactions.
 
 - Distributed Web3 engine with async microservices (eventual consistency)  
 - HD Wallets (TRC20) with HMAC-secured key derivation  
@@ -40,34 +45,22 @@ Corporate on/off-ramp (Fiat <> Crypto) processing real-time transactions.
 - IaC + CI/CD on Azure (Terraform, immutable infra)  
 - Three.js real-time gas visualization  
 
-### 🧹 LimpeJá Marketplace — *Platform Engineering*
-Uber-like cleaning services — **191 providers • R$82k+ GMV**
+
+### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="60" align="center"> **LimpeJá Marketplace** - *Scalable Platform Engineering*
+> Uber-like platform for cleaning services | **191 providers** | **251 active clients** | **R$ 82,850+ GMV**
 
 - Real-time matching engine (geolocation + availability — ms response)  
 - PIX payout system (<24h withdrawals)  
 - KYC pipeline: OCR + facial recognition (LGPD compliant)  
 - Zero-downtime migration: **4,570+ commits** from legacy to timezone-safe architecture  
 
-### 🧠 Bilingui AI — *Edge AI & Inference Optimization*
-Language learning platform with offline AI
+### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="60" align="center"> **Bilingui-AI** - *Edge AI & Inference Optimization*
+> Language learning platform with offline AI models
 
 - Edge inference: Whisper + Mistral local → **100% cost reduction / 75% latency improvement**  
 - FastAPI backend for audio streaming  
 - Clean architecture — decoupled AI models from business logic  
 
----
-
-## ⚙️ Technical Stack
-
-```text
-Security/EDR:   Threat Detection, Kill-Switch, Anti-Replay, Zero-Trust, Sensor Fusion, Red Team
-Infra/DevOps:   Terraform, Azure/AWS/GCP, Kubernetes, Docker, Helm, GitHub Actions
-Architecture:   Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, RabbitMQ, Redis
-Languages:      Python, TypeScript, Rust, Node.Js, Java, Kotlin, React
-AI/ML:          PyTorch, TensorFlow, FastAPI, Whisper, LLMs (edge inference)
-Blockchain:     Web3, HD Wallets, Smart Contracts, MEV (Rust), EVM
-Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone
-```
 ---
 
 ## 🧩 Architectural Philosophy

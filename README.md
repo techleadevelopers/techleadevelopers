@@ -23,7 +23,7 @@ Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, 
 
 ---
 
-<h3>Shipping end-to-end products from concept to scale — with real users, real attacks, real money.</h3>
+<h3>Shipping end-to-end products from concept to scale — with real users.</h3>
 
 ###  BlockRemote — *Real-Time EDR for Mobile (Zero-Trust)*
 Enterprise-grade backend for mobile behavioral threat detection.

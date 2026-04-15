@@ -11,15 +11,15 @@
 
 </div>
 
-| Área | Stack |
-|------|-------|
-| **Architecture** | Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, RabbitMQ, Redis |
-| **Languages** | Python, Rust, Node.js, Java, TypeScript, React |
-| **Security/EDR** | Threat Detection, Kill-Switch, Anti-Replay, Zero-Trust, Sensor Fusion, Red Team |
-| **Infra/DevOps** | Terraform, Azure/AWS/GCP, Kubernetes, Docker, Helm, GitHub Actions |
-| **AI/ML** | PyTorch, TensorFlow, FastAPI, Whisper, LLMs (edge inference) |
-| **Blockchain** | Web3, HD Wallets, Smart Contracts, MEV (Rust), EVM |
-| **Databases** | PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone |
+```text
+Architecture:   Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, RabbitMQ, Redis
+Languages:      Python, Rust, Node.Js, Java, TypeScript, React
+Security/EDR:   Threat Detection, Kill-Switch, Anti-Replay, Zero-Trust, Sensor Fusion, Red Team
+Infra/DevOps:   Terraform, Azure/AWS/GCP, Kubernetes, Docker, Helm, GitHub Actions
+AI/ML:          PyTorch, TensorFlow, FastAPI, Whisper, LLMs (edge inference)
+Blockchain:     Web3, HD Wallets, Smart Contracts, MEV (Rust), EVM
+Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone
+```
 
 ---
 

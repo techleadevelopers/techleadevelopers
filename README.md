@@ -21,8 +21,9 @@ Blockchain:     Web3, HD Wallets, Smart Contracts, MEV (Rust), EVM
 Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone
 ```
 
-<h3>Shipping end-to-end products from concept to scale — with real users, real attacks, real money.</h3>
 ---
+
+<h3>Shipping end-to-end products from concept to scale — with real users, real attacks, real money.</h3>
 
 ###  BlockRemote — *Real-Time EDR for Mobile (Zero-Trust)*
 Enterprise-grade backend for mobile behavioral threat detection.

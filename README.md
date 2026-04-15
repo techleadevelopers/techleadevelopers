@@ -6,7 +6,7 @@
 
   <p>
     I'm a <b>Distributed Systems & Security Engineer (Fintech/AI/EDR)</b>.
-    I build systems that <b>evolve in production</b> — from high-throughput Web3 to real-time threat neutralization.
+    I build systems that <b>evolve in production</b> from high-throughput Web3 to real-time threat neutralization.
   </p>
 
 </div>
@@ -24,9 +24,9 @@ Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, 
 
 ---
 
-<h3>🚀 Shipping end-to-end products from concept to scale — with real users, real attacks, real money.</h3>
+<h3>Shipping end-to-end products from concept to scale — with real users, real attacks, real money.</h3>
 
-### 🛡️ BlockRemote — *Real-Time EDR for Mobile (Zero-Trust)*
+###  BlockRemote — *Real-Time EDR for Mobile (Zero-Trust)*
 Enterprise-grade backend for mobile behavioral threat detection.
 
 - **Threat Engine**: Sensor fusion (accelerometer, gyro, touch entropy) with adaptive thresholds  

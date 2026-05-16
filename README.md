@@ -1,7 +1,7 @@
 <div>
 
   <p>
-    I'm a <b>Distributed Systems </b>.
+    I'm a 🧩 <b>Distributed Systems </b>.
     I build systems that evolve in production across security, AI, fintech, and high-throughput platforms.
   </p>
 

@@ -21,68 +21,38 @@ Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, 
 
 > <p>Shipping end-to-end products from concept to scale with real users.</p>
 
-### <img src="https://res.cloudinary.com/limpeja/image/upload/v1776215674/Gemini_Generated_Image_i5kov1i5kov1i5ko-removebg-preview_u34ugc.png" alt="BlockRemote Logo" width="52" align="center"> **BlockRemote** — *Real-Time EDR for Mobile (Zero-Trust)*
+### <img src="https://res.cloudinary.com/limpeja/image/upload/v1776215674/Gemini_Generated_Image_i5kov1i5kov1i5ko-removebg-preview_u34ugc.png" alt="BlockRemote Logo" width="38" align="center"> BlockRemote — Real-Time Mobile EDR
 > Enterprise-grade backend for mobile behavioral threat detection.
 
-```text
- Mobile Sensors ──> Fusion Engine ──> WebSocket ──> Redis Pub/Sub ──> Kill-Switch 
-```
+- `<100ms` real-time kill-switch latency
+- Zero-trust mobile EDR architecture
+- HMAC + nonce anti-replay enforcement
+- Azure + Redis real-time control plane
 
-| Metric | Target / Result | Status |
-|--------|------------------|--------|
-| Real-time Kill-Switch Latency | <100ms | 🟢 Production Verified |
-| Security Architecture | Anti-Replay (HMAC + Nonce) + Circuit Breaker | 🔒 Active |
-| Rate Limiting | Redis Token Bucket (Freemium Protection) | ⚡ Enforced |
+### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="Swappy Logo" width="38" align="center"> Swappy Financial — High-Throughput Web3 Platform
+> Corporate Fiat <> Crypto on/off-ramp with distributed transaction orchestration.
 
-- **Threat Engine:** Sensor fusion (accelerometer, gyro, touch entropy) with adaptive thresholds  
-- **Infra:** Terraform on Azure (Container Apps, Postgres Flexible, Redis Cache)  
+- `0%` replay / double-spend exposure by design
+- HD wallet custody with HMAC-secured derivation
+- Immutable Azure infrastructure with Terraform
+- Async Web3 architecture built for real-time processing
 
----
+### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="38" align="center"> LimpeJá Marketplace — Scalable Platform Engineering
+> Marketplace platform for cleaning services with live operations and financial flow.
 
-### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="Swappy Logo" width="52" align="center"> **Swappy Financial** — *High-Throughput Web3 Architecture*
-> Corporate On/Off-ramp platform (Fiat <> Crypto) processing real-time transactions.
+- `191` active providers
+- `251` active clients
+- `R$ 82,850+` GMV
+- `4,570+` commits in zero-downtime migration
+- PIX payouts + KYC pipeline with OCR and facial recognition
 
-```text
- Fiat Gateway ──> Async Eventual Consistency ──> Distributed Web3 Engine ──> TRC20 HD Wallets 
-```
+### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="38" align="center"> Bilingui-AI — Edge AI & Inference Optimization
+> Language learning platform with offline AI inference.
 
-| Metric / Feature | Implementation | Impact |
-|------------------|----------------|--------|
-| Transaction Idempotency | Nonce + HMAC Signatures | 0% Double-Spending / Replay Attacks |
-| Key Derivation | HMAC-Secured Key Derivation | Enterprise-Grade Custody |
-| Infrastructure Deployment | Terraform on Azure | 100% Immutable Blue/Green Deploys |
-
-- **Data UX:** Three.js pipeline for real-time network gas visualization  
-
----
-
-### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="52" align="center"> **LimpeJá Marketplace** — *Scalable Platform Engineering*
-> Uber-like platform for cleaning services.
-
-```text
- Request  ──>  Matching Engine: Geolocation + Availability  ──>( <50ms )──>  Provider Match 
-```
-
-| Scale Metrics | Financial Proof | Engineering Proof |
-|---------------|------------------|-------------------|
-| 191 Active Providers | R$ 82,850+ GMV | 4,570+ Commits (Legacy Migration) |
-| 251 Active Clients | <24h PIX Payout System | Zero-Downtime Timezone-Safe Infra |
-
-- **KYC Pipeline:** OCR + facial recognition (LGPD compliant)  
-
----
-
-### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="52" align="center"> **Bilingui-AI** — *Edge AI & Inference Optimization*
-> Language learning platform with offline AI models.
-
-```text
- Client Audio  ──>(Local Inference)──>  Whisper + Mistral Edge  ──>  0% Server Cost 
-```
-
-| Benchmark Metric | Before (Cloud) | After (Edge Inference) | Efficiency |
-|------------------|----------------|-------------------------|------------|
-| Infrastructure Cost | Cloud Servers | $0 | 100% Cost Reduction |
-| Audio Latency | API Roundtrip | -75% Response Time | 4x Faster Inference |
+- `100%` infrastructure cost reduction
+- `75%` latency reduction
+- Edge inference with Whisper + local LLMs
+- Offline-first AI deployment architecture
 
 ---
 

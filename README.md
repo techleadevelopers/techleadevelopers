@@ -21,17 +21,6 @@ Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, 
 
 > <p>Shipping end-to-end products from concept to scale with real users.</p>
 
-
-### <img src="https://res.cloudinary.com/limpeja/image/upload/v1776215674/Gemini_Generated_Image_i5kov1i5kov1i5ko-removebg-preview_u34ugc.png" alt="BlockRemote Logo" width="38" align="center"> BlockRemote — Real-Time Mobile EDR
-Enterprise-grade backend for mobile behavioral threat detection.
-
-- `<100ms` real-time kill-switch latency
-- Zero-trust mobile security architecture
-- HMAC + nonce anti-replay enforcement
-- Azure + Redis real-time control plane
-
----
-
 ### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="Swappy Logo" width="38" align="center"> Swappy Financial — High-Throughput Web3 Platform
 Corporate Fiat <> Crypto on/off-ramp built for distributed real-time transaction processing.
 

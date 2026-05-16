@@ -8,8 +8,8 @@
 </div>
 
 ```text
-Architecture:   Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, RabbitMQ, Redis
-Languages:      Python, Rust, Node.Js, Java, TypeScript, React
+Architecture:   Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, Redis
+Languages:      Python, Rust, Node.Js, TypeScript
 Security/EDR:   Threat Detection, Kill-Switch, Anti-Replay, Zero-Trust, Sensor Fusion, Red Team
 Infra/DevOps:   Terraform, Azure/AWS/GCP, Kubernetes, Docker, Helm, GitHub Actions
 AI/ML:          PyTorch, TensorFlow, FastAPI, Whisper, LLMs (edge inference)

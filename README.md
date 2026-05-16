@@ -25,7 +25,7 @@ Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, 
 > Enterprise-grade backend for mobile behavioral threat detection.
 
 ```text
-[ Mobile Sensors ] ──(Fusion Engine)──> [ WebSocket ] ──> [ Redis Pub/Sub ] ──> [ Kill-Switch ]
+ Mobile Sensors ──> Fusion Engine ──> WebSocket ──> Redis Pub/Sub ──> Kill-Switch 
 ```
 
 | Metric | Target / Result | Status |
@@ -43,7 +43,7 @@ Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, 
 > Corporate On/Off-ramp platform (Fiat <> Crypto) processing real-time transactions.
 
 ```text
-[ Fiat Gateway ] ◄──(Async Eventual Consistency)──► [ Distributed Web3 Engine ] ──> [ TRC20 HD Wallets ]
+ Fiat Gateway ──> Async Eventual Consistency ──> Distributed Web3 Engine ──> TRC20 HD Wallets 
 ```
 
 | Metric / Feature | Implementation | Impact |
@@ -60,7 +60,7 @@ Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, 
 > Uber-like platform for cleaning services.
 
 ```text
-[ Request ] ──> [ Matching Engine: Geolocation + Availability ] ──( <50ms )──> [ Provider Match ]
+ Request  ──>  Matching Engine: Geolocation + Availability  ──>( <50ms )──>  Provider Match 
 ```
 
 | Scale Metrics | Financial Proof | Engineering Proof |
@@ -76,7 +76,7 @@ Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, 
 > Language learning platform with offline AI models.
 
 ```text
-[ Client Audio ] ──(Local Inference)──> [ Whisper + Mistral Edge ] ──> [ 0% Server Cost ]
+ Client Audio  ──>(Local Inference)──>  Whisper + Mistral Edge  ──>  0% Server Cost 
 ```
 
 | Benchmark Metric | Before (Cloud) | After (Edge Inference) | Efficiency |

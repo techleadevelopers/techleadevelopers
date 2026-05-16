@@ -21,38 +21,71 @@ Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, 
 
 > <p>Shipping end-to-end products from concept to scale with real users.</p>
 
-### <img src="https://res.cloudinary.com/limpeja/image/upload/v1776215674/Gemini_Generated_Image_i5kov1i5kov1i5ko-removebg-preview_u34ugc.png" alt="BlockRemote Logo" width="38" align="center"> BlockRemote — Real-Time Mobile EDR
-> Enterprise-grade backend for mobile behavioral threat detection.
+### <img src="https://res.cloudinary.com/limpeja/image/upload/v1776215674/Gemini_Generated_Image_i5kov1i5kov1i5ko-removebg-preview_u34ugc.png" alt="BlockRemote Logo" width="40" align="center"> BlockRemote — Real-Time Mobile EDR
 
-- `<100ms` real-time kill-switch latency
-- Zero-trust mobile EDR architecture
-- HMAC + nonce anti-replay enforcement
-- Azure + Redis real-time control plane
+Enterprise-grade backend for mobile behavioral threat detection.
 
-### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="Swappy Logo" width="38" align="center"> Swappy Financial — High-Throughput Web3 Platform
-> Corporate Fiat <> Crypto on/off-ramp with distributed transaction orchestration.
+`Low Latency` `Zero Trust` `Mobile Security`
 
-- `0%` replay / double-spend exposure by design
-- HD wallet custody with HMAC-secured derivation
-- Immutable Azure infrastructure with Terraform
-- Async Web3 architecture built for real-time processing
+| Metric | Result |
+|---|---|
+| Kill-Switch Latency | `<100ms` |
+| Security Model | `Zero-Trust + HMAC + Nonce` |
+| Infra | `Azure + Redis Real-Time` |
 
-### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="38" align="center"> LimpeJá Marketplace — Scalable Platform Engineering
-> Marketplace platform for cleaning services with live operations and financial flow.
+- Sensor-fusion threat detection using accelerometer, gyroscope, and touch entropy
+- Production-grade anti-replay and real-time kill-switch control plane
 
-- `191` active providers
-- `251` active clients
-- `R$ 82,850+` GMV
-- `4,570+` commits in zero-downtime migration
-- PIX payouts + KYC pipeline with OCR and facial recognition
+---
 
-### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="38" align="center"> Bilingui-AI — Edge AI & Inference Optimization
-> Language learning platform with offline AI inference.
+### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="Swappy Logo" width="40" align="center"> Swappy Financial — High-Throughput Web3 Platform
 
-- `100%` infrastructure cost reduction
-- `75%` latency reduction
-- Edge inference with Whisper + local LLMs
-- Offline-first AI deployment architecture
+Corporate Fiat <> Crypto on/off-ramp built for distributed real-time transaction processing.
+
+`Web3 Infra` `Custody` `Immutable Delivery`
+
+| Metric | Result |
+|---|---|
+| Replay / Double Spend | `0% by design` |
+| Custody Layer | `HD Wallets + HMAC-secured derivation` |
+| Infra | `Terraform on Azure` |
+
+- Async microservice architecture with eventual consistency for Web3 orchestration
+- Secure transaction lifecycle with enterprise-grade wallet isolation
+
+---
+
+### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="40" align="center"> LimpeJá Marketplace — Scalable Platform Engineering
+
+Marketplace platform engineered for live operations, payouts, and migration at scale.
+
+`Production Scale` `FinOps` `Platform Engineering`
+
+| Metric | Result |
+|---|---|
+| Providers / Clients | `191 / 251` |
+| GMV | `R$ 82,850+` |
+| Migration Effort | `4,570+ commits` |
+
+- Real-time matching engine with geolocation and availability constraints
+- PIX payouts, KYC pipeline, and zero-downtime migration to timezone-safe architecture
+
+---
+
+### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="40" align="center"> Bilingui-AI — Edge AI & Inference Optimization
+
+Language learning platform optimized for offline inference and lower operating cost.
+
+`Edge AI` `Cost Reduction` `Low Latency`
+
+| Metric | Result |
+|---|---|
+| Infra Cost | `100% reduction` |
+| Latency | `75% improvement` |
+| Runtime Model | `Whisper + local LLM inference` |
+
+- Edge inference architecture removing server-side dependency from the critical path
+- AI runtime decoupled from business logic for maintainability and model swapability
 
 ---
 

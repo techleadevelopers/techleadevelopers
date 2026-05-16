@@ -1,8 +1,8 @@
 <div>
 
   <p>
-    I'm a <b>Distributed Systems & Security Engineer (Fintech/AI/EDR)</b>.
-    I build systems that <b>evolve in production</b> from high-throughput Web3 to real-time threat neutralization.
+    I'm a <b>Distributed Systems </b>.
+    I build systems that evolve in production across security, AI, fintech, and high-throughput platforms.
   </p>
 
 </div>

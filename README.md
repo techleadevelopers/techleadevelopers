@@ -35,33 +35,11 @@ Databases:      PostgreSQL • MongoDB • DynamoDB • Cassandra • Elasticsea
 ### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="Swappy Logo" width="38" align="center"> Swappy Financial — High-Throughput Web3 Platform
 Corporate Fiat <> Crypto on/off-ramp built for distributed real-time transaction processing.
 
-- `0%` replay / double-spend exposure by design
-- HD wallet custody with HMAC-secured derivation
-- Immutable Azure infrastructure with Terraform
-- Async Web3 architecture for real-time processing
-
----
-
 ### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="38" align="center"> LimpeJá Marketplace — Scalable Platform Engineering
 Marketplace platform engineered for live operations, payouts, and migration at scale.
 
-- `191` active providers
-- `251` active clients
-- `R$ 82,850+` GMV
-- `4,570+` commits in zero-downtime migration
-- PIX payouts + KYC pipeline with OCR and facial recognition
-
----
-
 ### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="38" align="center"> Bilingui-AI — Edge AI & Inference Optimization
 Language learning platform optimized for offline inference and lower operating cost.
-
-- `100%` infrastructure cost reduction
-- `75%` latency reduction
-- Edge inference with Whisper + local LLMs
-- Offline-first AI deployment architecture
- 
----
 
 - 11,445+ commits in the last year (production-driven)  
 - Continuous delivery, refactoring, and scaling  

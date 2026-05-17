@@ -2,7 +2,7 @@
 
   <p>
     I'm a <b>Distributed Systems </b>.
-    I build security, AI, and fintech systems.
+    I build high-performance, secure, AI-enabled, and fintech systems.
   </p>
 
 ## 🧩 Architectural Philosophy

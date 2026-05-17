@@ -6,13 +6,13 @@
   </p>
 
 ```text
-Architecture:   Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, Redis
-Languages:      Python, Rust, Node.Js, TypeScript
-Security/EDR:   Threat Detection, Kill-Switch, Anti-Replay, Zero-Trust, Sensor Fusion, Red Team
-Infra/DevOps:   Terraform, Azure/AWS/GCP, Kubernetes, Docker, Helm, GitHub Actions
-AI/ML:          PyTorch, TensorFlow, FastAPI, Whisper, LLMs (edge inference)
-Blockchain:     Web3, HD Wallets, Smart Contracts, MEV (Rust), EVM
-Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone
+Architecture:     Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, Redis
+Languages:        Python, Rust, Node.js, TypeScript
+Low-Level:        Edge-Infra, Low-Latency, Memory Management, Linux Internals
+Security/EDR:     Threat Detection, Kill-Switch, Anti-Replay, Zero-Trust, Sensor Fusion, Red Team
+DevOps/Scale:     Terraform, Azure/AWS/GCP, Kubernetes, Docker, Helm, GitHub Actions
+AI/ML:            PyTorch, TensorFlow, FastAPI, Whisper, LLMs (Edge Inference)
+Databases:        PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone
 ```
 
 </div>

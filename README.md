@@ -67,7 +67,7 @@ Focus: Test-stress-production,Observability and Low-latency, Resilience, FinOps
 I'm really into open-source and always excited about new challenges.
 
 <div align="center">
-  <i>Open to: Senior Engineering Roles • Technical Leadership • Startup Advisory</i>
+  <i>Open to: Engineering Roles • Technical Leadership • Startup Advisory</i>
 </div>
 
 <br/>

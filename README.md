@@ -17,13 +17,13 @@ Rust     → Deterministic Runtime • Low-Latency Execution • Hot Path
 ``` 
 
 ```text
-Architecture:   Microservices • Event-Driven • Hexagonal • REST/gRPC • Kafka • Redis
-Languages:      Python • Rust • Node.js • Go
-Low-Level:      Edge Infrastructure • Low-Latency • Memory Management • Linux Internals
-Security/EDR:   Threat Detection • Kill-Switch • Anti-Replay • Zero-Trust • Sensor Fusion
-DevOps/Scale:   Terraform • Azure • AWS • GCP • Kubernetes • Docker • Helm • GitHub Actions
-AI/ML:          PyTorch • TensorFlow • FastAPI • Whisper • LLMs • Edge Inference
-Databases:      PostgreSQL • MongoDB • DynamoDB • Cassandra • Elasticsearch • Redis • Pinecone
+Architecture:   Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, Redis
+Languages:      Python, Rust, Node.js, Go
+Low-Level:      Edge Infrastructure, Low-Latency, Memory Management, Linux Internals
+Security/EDR:   Threat Detection, Kill-Switch, Anti-Replay, Zero-Trust, Sensor Fusion
+DevOps/Scale:   Terraform, Azure, AWS, GCP, Kubernetes, Docker, Helm, GitHub Actions
+AI/ML:          PyTorch, TensorFlow, FastAPI, Whisper, LLMs, Edge Inference
+Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone
 ```
 
 </div>

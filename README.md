@@ -1,9 +1,19 @@
 <div>
 
   <h3>
-    I'm a 🧩 <b>Distributed Systems </b>.
+    I'm a <b>Distributed Systems </b>.
     Starting production across security, AI, fintech, and high-ecosystem.
   </h3>
+
+```text
+Architecture:   Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, Redis
+Languages:      Python, Rust, Node.Js, TypeScript
+Security/EDR:   Threat Detection, Kill-Switch, Anti-Replay, Zero-Trust, Sensor Fusion, Red Team
+Infra/DevOps:   Terraform, Azure/AWS/GCP, Kubernetes, Docker, Helm, GitHub Actions
+AI/ML:          PyTorch, TensorFlow, FastAPI, Whisper, LLMs (edge inference)
+Blockchain:     Web3, HD Wallets, Smart Contracts, MEV (Rust), EVM
+Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone
+```
 
 </div>
 
@@ -50,13 +60,6 @@ Language learning platform optimized for offline inference and lower operating c
 - Continuous delivery, refactoring, and scaling  
 
 ```text
-Architecture:   Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, Redis
-Languages:      Python, Rust, Node.Js, TypeScript
-Security/EDR:   Threat Detection, Kill-Switch, Anti-Replay, Zero-Trust, Sensor Fusion, Red Team
-Infra/DevOps:   Terraform, Azure/AWS/GCP, Kubernetes, Docker, Helm, GitHub Actions
-AI/ML:          PyTorch, TensorFlow, FastAPI, Whisper, LLMs (edge inference)
-Blockchain:     Web3, HD Wallets, Smart Contracts, MEV (Rust), EVM
-Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone
 Focus:          Observability and Low-latency, Resilience, FinOps  
 ```
 ---

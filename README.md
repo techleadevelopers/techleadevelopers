@@ -2,7 +2,7 @@
 
   <p>
     I'm a <b>Distributed Systems </b>-
-    starting production across security, AI, fintech, and high-ecosystem.
+    starting production across security, AI, fintech, and hybrid-ecosystem.
   </p>
 
 ```text

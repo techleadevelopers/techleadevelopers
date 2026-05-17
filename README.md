@@ -2,7 +2,7 @@
 
   <p>
     I'm a <b>Distributed Systems </b>-
-    starting production across security, building complex hybrid ecosystem.
+    building production systems across security, AI, and fintech ecosystems.
   </p>
 
 ## 🧩 Architectural Philosophy

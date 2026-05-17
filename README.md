@@ -2,7 +2,7 @@
 
   <p>
     I'm a <b>Distributed Systems </b>-
-    starting production across security, AI, fintech, and hybrid-ecosystem.
+    starting production across security, building complex hybrid ecosystem.
   </p>
 
 ## 🧩 Topology 

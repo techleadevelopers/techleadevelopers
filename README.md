@@ -60,7 +60,7 @@ Language learning platform optimized for offline inference and lower operating c
 - Continuous delivery, refactoring, and scaling  
 
 ```text
-Focus:          Observability and Low-latency, Resilience, FinOps  
+Focus: Test-stress-production,Observability and Low-latency, Resilience, FinOps  
 ```
 ---
 

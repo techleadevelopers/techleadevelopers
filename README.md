@@ -5,7 +5,9 @@
     starting production across security, building complex hybrid ecosystem.
   </p>
 
-## 🧩 Topology 
+## 🧩 Architectural Philosophy
+
+> I build systems that evolve in production.
 
 ```text
 Python:  → ML • Replay • Calibration • Adaptive Intelligence
@@ -60,10 +62,6 @@ Language learning platform optimized for offline inference and lower operating c
 - Offline-first AI deployment architecture
  
 ---
-
-## 🧩 Architectural Philosophy
-
-> I build systems that evolve in production.
 
 - 11,445+ commits in the last year (production-driven)  
 - Continuous delivery, refactoring, and scaling  

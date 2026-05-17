@@ -62,7 +62,6 @@ Language learning platform optimized for offline inference and lower operating c
 ```text
 Focus: Test-stress-production,Observability and Low-latency, Resilience, FinOps  
 ```
----
 
 ## 🤝 Let's Connect
 

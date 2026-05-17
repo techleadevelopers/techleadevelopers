@@ -1,9 +1,9 @@
 <div>
 
-  <h3>
-    I'm a <b>Distributed Systems </b>.
+  <p>
+    I'm a <b>Distributed Systems </b>-
     Starting production across security, AI, fintech, and high-ecosystem.
-  </h3>
+  </p>
 
 ```text
 Architecture:   Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, Redis

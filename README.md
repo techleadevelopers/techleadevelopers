@@ -32,13 +32,31 @@ Databases:      PostgreSQL • MongoDB • DynamoDB • Cassandra • Elasticsea
 
 > <p>Shipping end-to-end products from concept to scale with real users.</p>
 
-### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="Swappy Logo" width="38" align="center"> Swappy Financial 
-### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="38" align="center"> LimpeJá Marketplace 
-### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="38" align="center"> Bilingui-AI 
+### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="Swappy Logo" width="38" align="center"> Swappy Financial — High-Throughput Web3 Platform
+> Corporate Fiat <> Crypto on/off-ramp with distributed transaction orchestration.
 
+- `0%` replay / double-spend exposure by design
+- HD wallet custody with HMAC-secured derivation
+- Immutable Azure infrastructure with Terraform
+- Async Web3 architecture built for real-time processing
 
-- 11,445+ commits in the last year (production-driven)  
-- Continuous delivery, refactoring, and scaling  
+### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="38" align="center"> LimpeJá Marketplace — Scalable Platform Engineering
+> Marketplace platform for cleaning services with live operations and financial flow.
+
+- `191` active providers
+- `251` active clients
+- `R$ 82,850+` GMV
+- PIX payouts + KYC pipeline with OCR and facial recognition
+
+### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="38" align="center"> Bilingui-AI — Edge AI & Inference Optimization
+> Language learning platform with offline AI inference.
+
+- `100%` infrastructure cost reduction
+- `75%` latency reduction
+- Edge inference with Whisper + local LLMs
+- Offline-first AI deployment architecture
+
+---
 
 ```text
 Focus: Test-stress-production,Observability and Low-latency, Resilience, FinOps  

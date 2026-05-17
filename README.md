@@ -2,7 +2,7 @@
 
   <h3>
     I'm a 🧩 <b>Distributed Systems </b>.
-    Starting production across security, AI, fintech, and high-throughput platforms.
+    Starting production across security, AI, fintech, and high-ecosystem.
   </h3>
 
 </div>

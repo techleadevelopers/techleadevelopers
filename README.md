@@ -32,11 +32,10 @@ Databases:      PostgreSQL • MongoDB • DynamoDB • Cassandra • Elasticsea
 
 > <p>Shipping end-to-end products from concept to scale with real users.</p>
 
-### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="Swappy Logo" width="38" align="center"> Swappy Financial • High Web3 Platform
+### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="Swappy Logo" width="38" align="center"> Swappy Financial 
+### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="38" align="center"> LimpeJá Marketplace 
+### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="38" align="center"> Bilingui-AI 
 
-### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="38" align="center"> LimpeJá Marketplace • Scalable Platform Engineering
-
-### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="38" align="center"> Bilingui-AI • Edge AI & Inference Optimization
 
 - 11,445+ commits in the last year (production-driven)  
 - Continuous delivery, refactoring, and scaling  

@@ -1,9 +1,9 @@
 <div>
 
-  <p>
+  <h1>
     I'm a 🧩 <b>Distributed Systems </b>.
-    building systems that evolve in production across security, AI, fintech, and high-throughput platforms.
-  </p>
+    Starting production across security, AI, fintech, and high-throughput platforms.
+  </h1>
 
 </div>
 

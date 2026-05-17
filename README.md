@@ -5,9 +5,18 @@
     starting production across security, AI, fintech, and hybrid-ecosystem.
   </p>
 
+## 🧩 Topology 
+
+```text
+Python:  → ML • Replay • Calibration • Adaptive Intelligence
+Goland:  → Streaming • Telemetry • Risk Aggregation
+NodeJs:  → Gateway • WS • API Orchestration
+Rust     → Deterministic Runtime • Low-Latency Execution • Hot Path
+``` 
+
 ```text
 Architecture:     Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, Redis
-Languages:        Python, Rust, Node.js, TypeScript
+Languages:        Python, Rust, Node.js, Goland
 Low-Level:        Edge-Infra, Low-Latency, Memory Management, Linux Internals
 Security/EDR:     Threat Detection, Kill-Switch, Anti-Replay, Zero-Trust, Sensor Fusion, Red Team
 DevOps/Scale:     Terraform, Azure/AWS/GCP, Kubernetes, Docker, Helm, GitHub Actions

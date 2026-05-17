@@ -1,8 +1,8 @@
 <div>
 
   <p>
-    I'm a <b>Distributed Systems </b>-
-    building production systems across security, AI, and fintech ecosystems.
+    I'm a <b>Distributed Systems </b>.
+    I build security, AI, and fintech systems.
   </p>
 
 ## 🧩 Architectural Philosophy

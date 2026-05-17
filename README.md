@@ -7,16 +7,6 @@
 
 </div>
 
-```text
-Architecture:   Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, Redis
-Languages:      Python, Rust, Node.Js, TypeScript
-Security/EDR:   Threat Detection, Kill-Switch, Anti-Replay, Zero-Trust, Sensor Fusion, Red Team
-Infra/DevOps:   Terraform, Azure/AWS/GCP, Kubernetes, Docker, Helm, GitHub Actions
-AI/ML:          PyTorch, TensorFlow, FastAPI, Whisper, LLMs (edge inference)
-Blockchain:     Web3, HD Wallets, Smart Contracts, MEV (Rust), EVM
-Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone
-```
-
 ---
 
 > <p>Shipping end-to-end products from concept to scale with real users.</p>
@@ -56,15 +46,18 @@ Language learning platform optimized for offline inference and lower operating c
 
 > I build systems that evolve in production.
 
-- 9,445+ commits in the last year (production-driven)  
+- 11,445+ commits in the last year (production-driven)  
 - Continuous delivery, refactoring, and scaling  
 
 ```text
-Focus:
-- Velocidade e Performance
-- Observability and Low-latency 
-- Resilience  
-- FinOps  
+Architecture:   Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, Redis
+Languages:      Python, Rust, Node.Js, TypeScript
+Security/EDR:   Threat Detection, Kill-Switch, Anti-Replay, Zero-Trust, Sensor Fusion, Red Team
+Infra/DevOps:   Terraform, Azure/AWS/GCP, Kubernetes, Docker, Helm, GitHub Actions
+AI/ML:          PyTorch, TensorFlow, FastAPI, Whisper, LLMs (edge inference)
+Blockchain:     Web3, HD Wallets, Smart Contracts, MEV (Rust), EVM
+Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone
+Focus:          Observability and Low-latency, Resilience, FinOps  
 ```
 ---
 

@@ -7,7 +7,7 @@
 
 ## 🧩 Architectural Philosophy
 
-> I build systems that evolve in production.
+> I build systems that evolve in production-driven.
 
 ```text
 Python:  → ML • Replay • Calibration • Adaptive Intelligence

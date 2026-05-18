@@ -4,7 +4,9 @@
     I'm a <b>Distributed Systems </b>.
     I build high-performance, secure, AI-enabled, and fintech systems.
   </p>
+  
   > <p>Shipping end-to-end products from concept to scale with real users.</p>
+
 </div>
 
 ---

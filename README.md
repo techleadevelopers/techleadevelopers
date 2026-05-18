@@ -32,6 +32,16 @@ Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, 
 
 > <p>Shipping end-to-end products from concept to scale with real users.</p>
 
+### <img src="https://res.cloudinary.com/limpeja/image/upload/v1779071066/Gemini_Generated_Image_v5ufmcv5ufmcv5uf-removebg-preview_lcxvg8.png" alt="ZooHelp Logo" width="38" align="center"> ZooHelp Hybrid Core — Global Animal Protection Infrastructure
+
+> Enterprise-grade mobile and backend ecosystem for animal rescue, adoption, NGO networking, geolocation, trust systems, and community-driven social impact operations.
+
+- Global-ready rescue, adoption & NGO marketplace architecture
+- Rust core backend for low latency, trust-critical operations, and scalable infrastructure
+- Python intelligence layer for AI moderation, fraud analytics, NLP, and recommendation systems
+- Geolocation rescue systems + NGO verification + donation trust pipelines
+- Designed for large-scale community rescue coordination, nonprofit ecosystems, and global expansion
+
 ### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="Swappy Logo" width="38" align="center"> Swappy Financial — High-Throughput Web3 Platform
 > Corporate Fiat <> Crypto on/off-ramp with distributed transaction orchestration.
 

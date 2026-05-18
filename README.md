@@ -10,13 +10,6 @@
 > I build systems that evolve in production-driven.
 
 ```text
-Python:  → ML • Replay • Calibration • Adaptive Intelligence
-Goland:  → Streaming • Telemetry • Risk Aggregation
-NodeJs:  → Gateway • WS • API Orchestration
-Rust     → Deterministic Runtime • Low-Latency Execution • Hot Path
-``` 
-
-```text
 Architecture:   Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, Redis
 Languages:      Python, Rust, Node.js, Go
 Low-Level:      Edge Infrastructure, Low-Latency, Memory Management, Linux Internals

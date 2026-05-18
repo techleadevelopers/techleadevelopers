@@ -25,7 +25,7 @@ Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, 
 
 > <p>Shipping end-to-end products from concept to scale with real users.</p>
 
-### <img src="https://res.cloudinary.com/limpeja/image/upload/v1779071066/Gemini_Generated_Image_v5ufmcv5ufmcv5uf-removebg-preview_lcxvg8.png" alt="ZooHelp Logo" width="34" align="center"> ZooHelp Hybrid Core — Global Animal Protection Infrastructure
+  ### <img src="https://res.cloudinary.com/limpeja/image/upload/v1779071066/Gemini_Generated_Image_v5ufmcv5ufmcv5uf-removebg-preview_lcxvg8.png" alt="ZooHelp Logo" width="34" align="center"> ZooHelp Hybrid Core — Global Animal Protection Infrastructure
 
 > Helping ecosystem for animal rescue, adoption, NGO networking, geolocation, trust systems, and community-driven social impact.
 
@@ -43,7 +43,7 @@ Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, 
 - Edge inference with Whisper + local LLMs
 - Offline-first AI deployment architecture
 
-### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="38" align="center"> LimpeJá Marketplace — Scalable Platform Engineering
+  ### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="38" align="center"> LimpeJá Marketplace — Scalable Platform Engineering
 > Marketplace platform for cleaning services with live operations and financial flow.
 
 - `191` active providers

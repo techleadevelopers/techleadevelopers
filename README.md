@@ -32,7 +32,7 @@ Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, 
 
 > <p>Shipping end-to-end products from concept to scale with real users.</p>
 
-### <img src="https://res.cloudinary.com/limpeja/image/upload/v1779071066/Gemini_Generated_Image_v5ufmcv5ufmcv5uf-removebg-preview_lcxvg8.png" alt="ZooHelp Logo" width="28" align="center"> ZooHelp Hybrid Core — Global Animal Protection Infrastructure
+### <img src="https://res.cloudinary.com/limpeja/image/upload/v1779071066/Gemini_Generated_Image_v5ufmcv5ufmcv5uf-removebg-preview_lcxvg8.png" alt="ZooHelp Logo" width="34" align="center"> ZooHelp Hybrid Core — Global Animal Protection Infrastructure
 
 > Helping ecosystem for animal rescue, adoption, NGO networking, geolocation, trust systems, and community-driven social impact operations.
 

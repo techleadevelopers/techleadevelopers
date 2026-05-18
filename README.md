@@ -4,21 +4,6 @@
     I'm a <b>Distributed Systems </b>.
     I build high-performance, secure, AI-enabled, and fintech systems.
   </p>
-
-## 🧩 Architectural Philosophy
-
-> I build systems that evolve in production-driven.
-
-```text
-Architecture:   Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, Redis
-Languages:      Python, Rust, Node.js, Go
-Low-Level:      Edge Infrastructure, Low-Latency, Memory Management, Linux Internals
-Security/EDR:   Threat Detection, Kill-Switch, Anti-Replay, Zero-Trust, Sensor Fusion
-DevOps/Scale:   Terraform, Azure, AWS, GCP, Kubernetes, Docker, Helm, GitHub Actions
-AI/ML:          PyTorch, TensorFlow, FastAPI, Whisper, LLMs, Edge Inference
-Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone
-```
-
 </div>
 
 ---
@@ -59,6 +44,20 @@ Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, 
 - Async Web3 architecture built for real-time processing
 
 ---
+
+## 🧩 Architectural Philosophy
+
+> I build systems that evolve in production-driven.
+
+```text
+Architecture:   Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, Redis
+Languages:      Python, Rust, Node.js, Go
+Low-Level:      Edge Infrastructure, Low-Latency, Memory Management, Linux Internals
+Security/EDR:   Threat Detection, Kill-Switch, Anti-Replay, Zero-Trust, Sensor Fusion
+DevOps/Scale:   Terraform, Azure, AWS, GCP, Kubernetes, Docker, Helm, GitHub Actions
+AI/ML:          PyTorch, TensorFlow, FastAPI, Whisper, LLMs, Edge Inference
+Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone
+```
 
 ```text
 Focus: Test-stress-production,Observability and Low-latency, Resilience, FinOps  

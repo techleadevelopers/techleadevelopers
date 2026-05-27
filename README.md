@@ -36,14 +36,6 @@
 - `R$ 82,850+` GMV
 - PIX payouts + KYC pipeline with OCR and facial recognition
 
-### <img src="https://res.cloudinary.com/limpeja/image/upload/v1771254811/Developer_3_qozne6.png" alt="Swappy Logo" width="38" align="center"> Swappy Financial — High-Throughput Web3 Platform
-> Corporate Fiat <> Crypto on/off-ramp with distributed transaction orchestration.
-
-- `0%` replay / double-spend exposure by design
-- HD wallet custody with HMAC-secured derivation
-- Immutable Azure infrastructure with Terraform
-- Async Web3 architecture built for real-time processing
-
 ---
 
 ## 🧩 Architectural Philosophy

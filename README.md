@@ -23,7 +23,7 @@
 ### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="38" align="center"> Bilingui-AI — Edge AI & Inference Optimization
 > Language learning platform with offline AI inference.
 
-- `100%` infrastructure cost reduction
+- `50%` infrastructure cost reduction
 - `75%` latency reduction
 - Edge inference with Whisper + local LLMs
 - Offline-first AI deployment architecture

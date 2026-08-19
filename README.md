@@ -25,33 +25,32 @@
 
  
 ```text
-                                                              ┌─ 29 AGENT SERVICES ──────────────┐
-                      WEB         MOBILE                      │                                  │
-                        \          /                          │  Chat LLM                        │
-                         ▼        ▼                           │  Document OCR                    │
-                         CHAINFX CORE                         │  Semantic Memory                 │
-                              │                               │  Capability Discovery            │
-                       ┌──────▼──────┐                        │  A2A Agent Reputation            │
-                       │     MCP     │                        │  Agent Behavior Score            │
-                       │    AGENT    │───────────────┐        │  Agent Risk                      │
-                       │   COMMERCE  │               └───▶   │  Agent Identity Check            │
-                       └──────┬──────┘                        │  MCP Security Scan               │
-                              │                               │  MCP Tool Risk                   │
-                 ┌────────────┼────────────┐                  │  Wallet Reputation               │
-                 ▼            ▼            ▼                  │  Address Intelligence            │
-              PAYMENTS     SECURITY    INTELLIGENCE           │  Transaction Simulation          │
-              x402         MCP Risk    Wallet / Agent         │  Transaction Risk                │
-              CX Credits   Trust       Tx / AML / Th..        │  Token Risk                      │
-                 │            │            │                  │  AML Wallet Risk                 │
-                 └────────────┼────────────┘                  │  API Security Check              │
-                              │                               │  Threat Intelligence             │
-                              │                               │  Prompt Injection Scan           │
-                              │                               │                                  │
-                              ▼                               │  + 10 more services              │
-                     PROVIDER EXECUTION                       └──────────────────────────────────┘
-                              │
-                              ▼
+                                                                                               
+                      WEB         MOBILE                                                      
+                        \          /                                ┌─ 29 AGENT SERVICES ──────────────┐
+                         ▼        ▼                                 │                                  │
+                         CHAINFX CORE                               │  Semantic Memory                 │
+                              │                                     │  Capability Discovery            │
+                       ┌──────▼──────┐                              │  A2A Agent Reputation            │
+                       │     MCP     │                              │  Agent Behavior Score            │
+                       │    AGENT    │───────────────┐              │  Agent Risk                      │
+                       │   COMMERCE  │               └───▶         │  Agent Identity Check            │
+                       └──────┬──────┘                              │  MCP Security Scan               │
+                              │                                     │  MCP Tool Risk                   │
+                 ┌────────────┼────────────┐                        │  Wallet Reputation               │
+                 ▼            ▼            ▼                        │  Address Intelligence            │
+              PAYMENTS     SECURITY    INTELLIGENCE                 │  Transaction Simulation          │
+              x402         MCP Risk    Wallet / Agent               │  Transaction Risk                │
+              CX Credits   Trust       Tx / AML / Th..              │  Token Risk                      │
+                 │            │            │                        │  AML Wallet Risk                 │
+                 └────────────┼────────────┘                        │  API Security Check              │
+                              │                                     │  Threat Intelligence             │
+                              ▼                                     │  Smart Contract Scan             │
+                     PROVIDER EXECUTION                             │                                  │
+                              │                                     │  + 10 more services              │
+                              ▼                                     └──────────────────────────────────┘
                   PERSISTED RESULT / RECEIPT
+                               
 ```
 
 `MCP` · `A2A` · `x402` · `Agent Commerce` · `CX Credits` · `Security` · `Risk Intelligence`

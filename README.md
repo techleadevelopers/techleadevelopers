@@ -51,11 +51,12 @@
                               ▼                                     └──────────────────────────────────┘
                   PERSISTED RESULT / RECEIPT
 
-      `MCP` · `A2A` · `x402` · `Agent Commerce` · `CX Credits` · `Security` · `Risk Intelligence`                            
+      `MCP` · `A2A` · `x402` · `Agent Commerce` · `CX Credits` · `Security` · `Risk Intelligence`
 ```
 
+### 🧩 Architectural Philosophy
 
-> 🧩 I build systems that my Architectural Philosophy.
+>  I build systems that my Architectural Philosophy.
 
 ```text
 Architecture:      Distributed Systems, Event-Driven, REST/gRPC, MCP, A2A

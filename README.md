@@ -26,6 +26,7 @@
  
 ```text
              WEB          MOBILE                   ┌─ 29 AGENT SERVICES ──────────────┐
+               \            /                      │                                  │
                 \          /                       │  Chat LLM                        │
                  ▼        ▼                        │  Document OCR                    │
               CHAINFX CORE                         │  Semantic Memory                 │

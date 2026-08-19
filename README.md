@@ -11,6 +11,22 @@
 
 ---
 
+
+### <img src="https://res.cloudinary.com/limpeja/image/upload/v1784721444/ChatGPT_Image_22_de_jul._de_2026_08_56_59-Photoroom_iog8vf.png" alt="ChainFX Logo" width="34" align="center">ChainFX Finance — Agent-to-Agent Payments, Trust & Capability Infrastructure
+> Infrastructure for autonomous agents to discover, evaluate, purchase, execute, and settle digital capabilities programmatically.
+
+- MCP-native capability infrastructure for machine-readable discovery and execution
+- A2A-ready agent architecture for agent identity, skills, and interoperable service interaction
+- x402 pay-per-call execution for autonomous machine payments 
+- Agent-to-agent capability purchasing and programmable service access
+- Native security, risk, wallet, transaction, MCP, and agent intelligence capabilities
+- Capability registry, contracts, pricing, entitlements, execution, and persisted receipts
+- Trial and commercial execution models with machine-enforced access policies
+- Idempotency, replay protection, execution integrity, auditability, and payment-bound access
+- Designed for autonomous agent commerce, security infrastructure, fintech integrations, and programmable machine economie
+ 
+---
+
 ### <img src="https://res.cloudinary.com/limpeja/image/upload/v1779071066/Gemini_Generated_Image_v5ufmcv5ufmcv5uf-removebg-preview_lcxvg8.png" alt="ZooHelp Logo" width="34" align="center"> Helpin Hybrid Core — Global Animal Protection Infrastructure
 > Helping ecosystem for animal rescue, adoption, NGO networking, geolocation, trust systems, and community-driven social impact.
 
@@ -20,40 +36,25 @@
 - Geolocation rescue systems + NGO verification + donation trust pipelines
 - Designed for large-scale community rescue coordination, nonprofit ecosystems, and global expansion
 
-### <img src="https://drive.google.com/uc?id=1RHccUtYOi5xWxTBsRjktwuUnqJkA_vD6" alt="Bilingui Logo" width="38" align="center"> Bilingui-AI — Edge AI & Inference Optimization
-> Language learning platform with offline AI inference.
 
-- `50%` infrastructure cost reduction
-- `75%` latency reduction
-- Edge inference with Whisper + local LLMs
-- Offline-first AI deployment architecture
-
-### <img src="https://drive.google.com/uc?id=1rg3uscL3KEGs3kCnS03U9BONF3viCes9" alt="LimpeJá Logo" width="38" align="center"> LimpeJá Marketplace — Scalable Platform Engineering
-> Marketplace platform for cleaning services with live operations and financial flow.
-
-- `191` active providers
-- `251` active clients
-- `R$ 82,850+` GMV
-- PIX payouts + KYC pipeline with OCR and facial recognition
-
----
 
 ## 🧩 Architectural Philosophy
 
 > I build systems that evolve in production-driven.
 
 ```text
-Architecture:   Microservices, Event-Driven, Hexagonal, REST/gRPC, Kafka, Redis
+Architecture:   Distributed Systems, Event-Driven, REST/gRPC, MCP, A2A
 Languages:      Python, Rust, Node.js, Go
+Protocols:      MCP, A2A, x402, HTTP APIs
 Low-Level:      Edge Infrastructure, Low-Latency, Memory Management, Linux Internals
-Security/EDR:   Threat Detection, Kill-Switch, Anti-Replay, Zero-Trust, Sensor Fusion
-DevOps/Scale:   Terraform, Azure, AWS, GCP, Kubernetes, Docker, Helm, GitHub Actions
+Security:       Zero-Trust, Anti-Replay, Risk Engines, Threat Detection, Auditability
+Infrastructure:   Terraform, Azure, AWS, GCP, Kubernetes, Docker, Helm, GitHub Actions
 AI/ML:          PyTorch, TensorFlow, FastAPI, Whisper, LLMs, Edge Inference
 Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone
 ```
 
 ```text
-Focus: Test-stress-production,Observability and Low-latency, Resilience, FinOps  
+Focus: Production Systems · Agent Infrastructure · Payments · Security Observability · Low Latency · Resilience · FinOps 
 ```
 
 ## 🤝 Let's Connect

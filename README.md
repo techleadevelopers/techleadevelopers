@@ -24,16 +24,38 @@
 - Trial and commercial execution models with machine-enforced access policies
 
  
----
+```text
+## ⚡ ChainFX Hybrid Architecture
 
-### <img src="https://res.cloudinary.com/limpeja/image/upload/v1779071066/Gemini_Generated_Image_v5ufmcv5ufmcv5uf-removebg-preview_lcxvg8.png" alt="ZooHelp Logo" width="34" align="center"> Helpin Hybrid Core — Global Animal Protection Infrastructure
-> Helping ecosystem for animal rescue, adoption, NGO networking, geolocation, trust systems, and community-driven social impact.
+```text
+             WEB          MOBILE
+               \            /
+                \          /
+                 ▼        ▼
+              CHAINFX CORE
+                   │
+            ┌──────▼──────┐
+            │     MCP     │
+            │ AGENT       │
+            │ COMMERCE    │
+            └──────┬──────┘
+                   │
+      ┌────────────┼────────────┐
+      ▼            ▼            ▼
+   PAYMENTS     SECURITY    INTELLIGENCE
+   x402         MCP Risk    Wallet / Agent
+   CX Credits   Trust       Tx / AML / Threat
+      │            │            │
+      └────────────┼────────────┘
+                   ▼
+          PROVIDER EXECUTION
+                   │
+                   ▼
+       PERSISTED RESULT / RECEIPT
+```
 
-- Global-ready rescue, adoption & NGO marketplace architecture
-- Rust core backend for low latency, trust-critical operations, and scalable infrastructure
-- Python intelligence layer for AI moderation, fraud analytics, NLP, and recommendation systems
-- Geolocation rescue systems + NGO verification + donation trust pipelines
-- Designed for large-scale community rescue coordination, nonprofit ecosystems, and global expansion
+`MCP` · `A2A` · `x402` · `Agent Commerce` · `CX Credits` · `Security` · `Risk Intelligence`
+
 
 
 

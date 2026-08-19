@@ -20,10 +20,9 @@
 - x402 pay-per-call execution for autonomous machine payments 
 - Agent-to-agent capability purchasing and programmable service access
 - Native security, risk, wallet, transaction, MCP, and agent intelligence capabilities
-- Capability registry, contracts, pricing, entitlements, execution, and persisted receipts
+- 29 Services for Agent-to-agent
 - Trial and commercial execution models with machine-enforced access policies
-- Idempotency, replay protection, execution integrity, auditability, and payment-bound access
-- Designed for autonomous agent commerce, security infrastructure, fintech integrations, and programmable machine economie
+
  
 ---
 

@@ -25,9 +25,6 @@
 
  
 ```text
-## ⚡ ChainFX Hybrid Architecture
-
-```text
              WEB          MOBILE
                \            /
                 \          /

@@ -25,10 +25,10 @@
 
  
 ```text
-             WEB          MOBILE                   ┌─ 29 AGENT SERVICES ──────────────┐
-               \            /                      │                                  │
-                \          /                       │  Chat LLM                        │
-                 ▼        ▼                        │  Document OCR                    │
+                                                   ┌─ 29 AGENT SERVICES ──────────────┐
+           WEB         MOBILE                      │                                  │
+             \          /                          │  Chat LLM                        │
+              ▼        ▼                           │  Document OCR                    │
               CHAINFX CORE                         │  Semantic Memory                 │
                    │                               │  Capability Discovery            │
             ┌──────▼──────┐                        │  A2A Agent Reputation            │

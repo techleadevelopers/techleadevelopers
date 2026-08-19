@@ -63,18 +63,16 @@
 > I build systems that evolve in production-driven.
 
 ```text
-Architecture:   Distributed Systems, Event-Driven, REST/gRPC, MCP, A2A
-Languages:      Python, Rust, Node.js, Go
-Protocols:      MCP, A2A, x402, HTTP APIs
-Low-Level:      Edge Infrastructure, Low-Latency, Memory Management, Linux Internals
-Security:       Zero-Trust, Anti-Replay, Risk Engines, Threat Detection, Auditability
-Infrastructure:   Terraform, Azure, AWS, GCP, Kubernetes, Docker, Helm, GitHub Actions
-AI/ML:          PyTorch, TensorFlow, FastAPI, Whisper, LLMs, Edge Inference
-Databases:      PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone
-```
-
-```text
-Focus: Production Systems · Agent Infrastructure · Payments · Security Observability · Low Latency · Resilience · FinOps 
+Architecture:      Distributed Systems, Event-Driven, REST/gRPC, MCP, A2A
+Languages:         Python, Rust, Node.js, Go
+Protocols:         MCP, A2A, x402, HTTP APIs
+Low-Level:         Edge Infrastructure, Low-Latency, Memory Management, Linux Internals
+Security:          Zero-Trust, Anti-Replay, Risk Engines, Threat Detection, Auditability
+Infrastructure:    Terraform, Azure, AWS, GCP, Kubernetes, Docker, Helm, GitHub Actions
+AI/ML:             PyTorch, TensorFlow, FastAPI, Whisper, LLMs, Edge Inference
+Databases:         PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone
+ 
+Focus:             Production Systems · Agent Infrastructure · Payments · Security Observability · Low Latency · Resilience
 ```
 
 ## 🤝 Let's Connect

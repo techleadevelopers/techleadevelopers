@@ -12,7 +12,7 @@
 ---
 
 
-###  <img src="https://res.cloudinary.com/limpeja/image/upload/v1787167840/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-Photoroom_hbss2m.png" alt="ChainFX Logo" width="54" align="center"> - Agent-to-Agent Payments, Trust & Capability Infrastructure
+###  <img src="https://res.cloudinary.com/limpeja/image/upload/v1787167840/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-Photoroom_hbss2m.png" alt="ChainFX Logo" width="54" align="center"> ChainFX- Agent-to-Agent Payments, Trust & Capability Infrastructure
 > Infrastructure for autonomous agents to discover, evaluate, purchase, execute, and settle digital capabilities programmatically.
 
 - MCP-native capability infrastructure for machine-readable discovery and execution

@@ -1,11 +1,11 @@
 <div>
 
   <p>
-    I'm a <b>Distributed Systems </b>.
+    I'm a <b>Distributed Systems Engineer</b>.
     I build high-performance, secure, AI-enabled, and fintech systems.
   </p>
-  
-  > <p>Shipping end-to-end products from concept to scale with real users.</p>
+
+> <p>Shipping end-to-end products from concept to scale with real users.</p>
 
 </div>
 

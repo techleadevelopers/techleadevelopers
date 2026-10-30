@@ -60,12 +60,12 @@
 
 ```text
 Architecture:      Distributed Systems, Event-Driven, REST/gRPC, MCP, A2A
-Languages:         Python, Rust, Node.js, Go
+Languages:         Python, Rust, Node.js, Goland
 Protocols:         MCP, A2A, x402, HTTP APIs
 Low-Level:         Edge Infrastructure, Low-Latency, Memory Management, Linux Internals
 Security:          Zero-Trust, Anti-Replay, Risk Engines, Threat Detection, Auditability
-Infrastructure:    Terraform, Azure, AWS, GCP, Kubernetes, Docker, Helm, GitHub Actions
-AI/ML:             PyTorch, TensorFlow, FastAPI, Whisper, LLMs, Edge Inference
+Infrastructure:    Terraform, Azure, AWS, GCP, Kubernetes, Docker
+AI/ML:             PyTorch, TensorFlow, FastAPI, Whisper, LLMs
 Databases:         PostgreSQL, MongoDB, DynamoDB, Cassandra, Elasticsearch, Redis, Pinecone
  
 Focus:             Production Systems · Agent Infrastructure · Payments · Security Observability · Low Latency · Resilience
